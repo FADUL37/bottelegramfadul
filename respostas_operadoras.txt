@@ -1,0 +1,3325 @@
+aresnet_planos::📶 *ARESNET – Planos:*
+
+*Plano Rural Geral:*
+100 Mbps R$130,00
+160 Mbps R$150,00
+180 Mbps R$180,00
+200 Mbps R$199,00
+240 Mbps R$250,00
+
+*Plano Urbano Geral:*
+400 Mbps R$89,90
+600 Mbps R$99,90
+700 Mbps R$119,90
+800 Mbps R$139,90
+---
+aresnet_cobertura::🌍 *ARESNET – Cobertura:*
+
+Urbana: Lagoinha, Cunha, São Luiz, Redenção, Paraibuna e Santa Branca
+
+Rural: todas as cidades acima + Taubaté, dois bairros de Guaratinguetá e um de Natividade da Serra
+---
+aresnet_equipamentos::🛠️ *ARESNET – Equipamentos:*
+
+ONU ZTE 660, ONU ZTE AX 3000, ONU Parks, ONU Epon Next, ONU Epon Furukawa,
+Roteador ZTE 1200, TP-Link 1200, Intelbras /100, TP-Link /100
+---
+aresnet_suporte::🔧 *ARESNET – Suporte:*
+
+- Atendimento: 8h às 19h
+- Suporte N2 e N3 disponível
+- Prazo: 48h comum, 4h para dedicado
+- Plantão aos fins de semana e feriados: Sim
+- Reset: botão 30s, configurar PPPoE ou IP Dinâmico conforme ONU
+- Visita improdutiva: R$50
+---
+aresnet_financeiro::💰 *ARESNET – Financeiro:*
+
+- Bloqueio: 16 dias após vencimento
+- Desbloqueio com comprovante: 24h liberado
+- Formas de pagamento: boleto, carnê, cartão (loja física)
+- IP Fixo: R$80/mês
+- Troca de senha via OS: R$50
+- Cancelamento via protocolo financeiro
+---
+aresnet_atendimento::📞 *ARESNET – Atendimento:*
+
+📞 Telefone/WhatsApp: (12) 3570-5151
+📧 E-mail: atendimento@aresnet.com.br
+🌐 Site: https://aresnet.com.br
+👤 Central do Assinante: https://aresnet.sgp.net.br/accounts/central/login
+🔐 Login: CPF | Senha: CPF
+---
+aresnet_reset::🔄 *ARESNET – Reset de Equipamento:*
+
+- Pressione o botão por 30 segundos
+- Após luzes apagarem, solte
+- Acesse com senha padrão
+- Configuração:
+  *BRIDGE:* PPPoE (login e senha)
+  *ROUTER:* IP Dinâmico
+---
+brasilink_planos::📶 *BRASILINK – Planos:*
+
+- 100MB, 300MB, 500MB (fibra/rádio)
+- Viçosa interior: 5MB, 10MB, 20MB, 40MB
+- Araquém: 30MB, 50MB, 100MB
+---
+brasilink_cobertura::🌍 *BRASILINK – Cobertura:*
+
+Viçosa do Ceará, Tianguá, Cocal e Rio Verde
+---
+brasilink_equipamentos::🛠️ *BRASILINK – Equipamentos:*
+
+TpLink, Tenda, Multilaser, Greatek, Mercusys, ZTE, Ont Nokia, Huawei, Zyxel, Intelbras
+---
+brasilink_suporte::🔧 *BRASILINK – Suporte:*
+
+- N2 e N3 disponíveis
+- Reset apenas via visita técnica (sem cobrança)
+- Visita improdutiva: cobrança se reincidente
+- Suporte a repetidor próprio: R$60
+- IP Fixo: R$25/mês
+- IPV6: Sim
+- Atendimento 24h úteis
+---
+brasilink_financeiro::💰 *BRASILINK – Financeiro:*
+
+- Bloqueio após 10 dias (ou 15 para recorrente)
+- Desbloqueio de confiança: 1 vez por vencimento (válido por 2 dias)
+- Pix direto na fatura
+- Comprovantes: anexo em N1, baixa em até 24h
+- Troca de titularidade: exige documento e novo contato
+- Cancelamento via OUTRAS DEMANDAS
+---
+brasilink_atendimento::📞 *BRASILINK – Atendimento:*
+
+📞 0800 775 1010
+🌐 http://www.brasilink.net.br
+👤 Central do Assinante: https://atendimentoixc.brasilink.net.br/central_assinante_web/login
+🔐 Login: CPF | Senha: 6 primeiros dígitos do CPF
+
+Endereços:
+- Tianguá: Rua Dep. Manoel Francisco, 800 – Centro
+- Viçosa do Ceará: Rua Prof. João Viana, 40 – Centro
+- Cocal: Av. Raimundo Alves Pereira, 984 – São Pedro
+---
+brasilink_reset::🔄 *BRASILINK – Reset de Equipamento:*
+
+- Reset apenas com visita técnica
+- Sem cobrança
+- Solicitar abertura de OS caso sem acesso remoto
+capital_planos::📶 *CAPITAL FIBRA – Planos:*
+
+Planos disponíveis: 600, 800 e 1000 megas.
+
+Clientes com planos inferiores a 600MB podem ser analisados para upgrade. Clientes de rede neutra: encaminhar casos ao grupo com nome da atendente.
+
+---
+capital_cobertura::🌍 *CAPITAL FIBRA – Cobertura:*
+
+Bairro Veneza, Fazenda Rio Grande, Tatuquara (Condomínios), Caximba, Bairro Novo Mundo, Parolim e Guaíra.
+
+---
+capital_equipamentos::🛠️ *CAPITAL FIBRA – Equipamentos:*
+
+Diversos modelos: UNEE, ASKEY, NOKIA, CAPITAL NET, MITRA, HUAWEI, MERCUSYS, TP LINK, INTELBRAS, TPLINK XC220, DATACOM.
+
+Senhas variam por modelo. Evitar passar ao cliente, mas se insistir pode informar com aviso sobre custo da visita.
+
+---
+capital_suporte::🔧 *CAPITAL FIBRA – Suporte:*
+
+- Reset orientado → abrir atendimento, avisar sobre visita improdutiva
+- SUPORTE N2 = Suporte remoto
+- SUPORTE N3 = Visita técnica
+- Prazo: agendar próxima data útil, atendimento entre 09h e 18h
+- Visita fora do horário: só em última instância (clientes atrito)
+- Custo visita improdutiva: R$30 + R$3,50/m de cabo
+
+---
+capital_financeiro::💰 *CAPITAL FIBRA – Financeiro:*
+
+- IP Fixo: R$70 PF | R$100 PJ
+- Fatura separada (internet e telefone)
+- Juros corretos: 2% multa + 0,033%/dia
+- Desbloqueio confiança: 5 dias
+- Desbloqueio preventivo: 3 dias
+- Bloqueio: 15 dias após vencimento
+- Carnê: disponível na loja
+- Pagamento: boleto ou Pix
+- Desconto automático por pagamento em dia
+
+---
+capital_atendimento::📞 *CAPITAL FIBRA – Contatos:*
+
+📱 0800 941 0094  
+📧 sac@capitalfibra.com.br  
+🌐 https://capitalfibra.com.br/site/  
+👤 Central do Assinante: https://central.capitalnet.hubsoft.com.br/  
+📲 App Android: [Google Play](https://play.google.com/store/apps/details?id=com.hubsoft_client_app.capitalnet)  
+📲 App iOS: [App Store](https://apps.apple.com/br/app/capital-fibra/id1638322751)  
+
+Endereços:
+- R. João Quirino Leal, 1515 CASA 42, Jardim Veneza, Fazenda Rio Grande - PR  
+- Av. Cedro, 507, Eucaliptos  
+- Rua Francisca Beraldi Paolini, 860, Caximba - PR
+
+---
+capital_reset::🔄 *CAPITAL FIBRA – Reset e Agendamento:*
+
+- Reset = visita técnica se necessário
+- Visita: agendada com cliente, pode ocorrer no Domingo se sem conexão
+- Custo do ponto adicional: R$30 (sem fibra), R$70 (com troca)
+- Ponto extra = novo contrato
+- Mudança de endereço = cliente leva o modem, abrir OS
+netcenter_planos::📶 *NETCENTER – Planos:*
+
+**🌐 Tecnologias oferecidas:**
+Fibra, TV (App Netcenter TV), Leveduca, Deezer, Looke, UBook, Leitura360, Estuda+, Pequenos Leitores, Playlist App, O Jornalista, Social Comics, Kaspersky Standard, PlayKids+, ZenWelness, QNutri, Noping, Hube Revista, Fluid
+
+**📺 App Netcenter TV:**
+• Login: CPF sem traços e sem pontos
+• Senha: 4 primeiros dígitos do CPF
+• URL: tv.netcentertelecom.com.br
+
+**📚 Leveduca:**
+• Login: CPF sem traços e sem pontos
+• Senha: 4 primeiros dígitos do CPF
+• Link iOS: https://apps.apple.com/br/app/leveduca/id1571292964?l=en
+• Link Android: https://play.google.com/store/apps/details?id=com.nubbi.leveduca&hl=pt_BR&gl=US
+
+**💡 Observação:** Em caso de problemas com esses serviços, encaminhar ao N2
+
+---
+netcenter_cobertura::🌍 *NETCENTER – Cobertura:*
+
+**🏢 Filiais com Atendimento Presencial:**
+
+**📍 Arraial d'Ajuda:**
+R. das Palmeiras, 1157 - São Pedro, Porto Seguro - BA, 45816-000
+Maps: https://www.google.com/maps/place/Netcenter+Arraial+D'Ajuda+-+Internet+Fibra+%C3%93ptica/@-16.485682,-39.084147,12z/data=!4m5!3m4!1s0x0:0x4da84c21680c2828!8m2!3d-16.4856816!4d-39.0841474?hl=pt-BR
+
+**📍 Porto Seguro:**
+Rua Adno Musser, 2360, BR-367 Mirante Caravelas, Porto Seguro - BA, 45810-000
+Maps: https://www.google.com/maps?ll=-16.437702,-39.089634&z=13&t=m&hl=pt-BR&gl=BR&mapclient=embed&cid=13785717992164533748
+
+**📍 Belmonte:**
+Avenida 23 de Maio, 628B, Centro - Belmonte
+
+**📍 Coroa Vermelha:**
+Rua Angelin, 05, Loja 01, ao lado da Império Pescados - Rio Jardim - Santa Cruz Cabrália
+
+**📍 Cabrália:**
+Rua Campos Tourinho, 531, Centro - Santa Cruz Cabrália
+
+**📍 Itabatã:**
+Avenida Brasil, 182, cidade nova, ao lado churrascaria Avanci
+
+**📍 Nova Viçosa:**
+Avenida Ocanica, 828, Cleriston de Andrade
+Ao lado material de construção Silva Gomes
+
+**📍 Mucuri:**
+Avenida Central, 536, Centro
+Ao lado do correio
+
+---
+netcenter_equipamentos::🛠️ *NETCENTER – Equipamentos:*
+
+**🔐 USUÁRIOS, SENHAS E PORTAS DAS ONUs:**
+
+| EQUIPAMENTO | LOGIN | SENHA | PORTA |
+|-------------|-------|-------|-------|
+| 2 FLEX 2F-FG1200M WIF | admin | centertelecom | 80 |
+| CIANET GW 24AC | adminisp | centertelecom | 8081 |
+| WIFI (ASKEY/MITRASTAR) | - | net2019* | 80 |
+| WIFI CHINA MOBILE WIF | telecomadmin | admintelecom | http: ip /login.cgi |
+| INTELBRAS WIFI 121 AC | admin | centertelecom | 8081 |
+| EASY LINK (E4L-H5410WA) | admin | net2019* | 80 |
+| GPON WIFI AC HUAWEI HG824H5 | superadmin | HW@root123 | 80 |
+| NANO FIBER XPON 2GE | admin | net2019* | 8081 |
+| GPON/EPON FAST-WI | telecomadmin | admintelecom | 80 ou 8081 |
+| FAST-WI | administrador | masterpassword | 80 ou 8081 |
+
+**🌐 USUÁRIOS, SENHAS E PORTAS DOS ROTEADORES:**
+
+| EQUIPAMENTO | USUÁRIO | SENHA | PORTA |
+|-------------|---------|-------|-------|
+| AC 1200 GIGABIT ZTE | Space | Net2019* | 8081 |
+| INTELBRAS RF30/INTEL ACTION RG 1200/TP LINK GIGABIT DUAL BAND | - | centertelecom | 8081 |
+| ROTEADOR TINK 1200MBPS | - | centertelecom | 80 |
+| ROTEADOR TPLINK 450MBPS | admin | centertelecom | 8081 |
+
+**⚠️ Equipamento Huawei V2 (ONT):** Necessário Liberar Acesso Web - senha Epadmin - adminEp
+
+**🔒 Acesso ao Cliente:**
+• Se equipamento em comodato: acesso restrito
+• Poucos clientes possuem equipamento próprio (maioria com Plano de 100Mbps em Porto Seguro ou Arraial D'Ajuda)
+• Caso acesso remoto não esteja habilitado: gerar N2 para equipe técnica realizar liberação
+
+**🌐 DNS Padrão:**
+• Primário: 170.82.12.3
+• Secundário: 170.82.12.4
+
+**📊 Site para Teste de Velocidade:**
+Speed test ou Fast.com
+
+---
+netcenter_suporte::🔧 *NETCENTER – Suporte:*
+
+**⏰ Horário UPCALL (GMT -3):**
+• Segunda à Sexta: 23:50h às 08h
+• Sexta à noite: a partir das 22:50h
+• Sábados e Feriados: 22:50h às 08h
+• Domingos: 16:50h às 08h de Segunda
+
+**⏰ Horário Atendimento N2:**
+• Segunda à Sexta: 08h às 18h
+• Sábados: 08h às 17h
+• Domingos: 08h às 17h (somente clientes offline, mas podem fazer N2 dependendo da demanda)
+
+**🔧 Tipos de Suporte:**
+• **N2:** Problemas técnicos comuns
+• **N3 (Sem Conexão):** SOMENTE para clientes SEM CONEXÃO
+• Toda O.S. é encaminhada ao Setor N2, distinguindo-se apenas por ser Falta de Conexão ou não
+
+**📶 Nível de Sinal Ideal:**
+• Sinal Rx: -26.00 dBm
+• Sinal Tx: -27.00 dBm
+• Caso esteja abaixo: pode ser gerada N2
+
+**⏱️ Prazo de Atendimento:**
+• ATÉ 72 HORAS após abertura da OS
+• Transferir cliente durante horário comercial
+• Setor de Agendamento sempre tenta contato antes da ida do técnico
+• **Importante:** Não agenda horário específico com cliente
+
+**🔄 Procedimentos Especiais:**
+• **Reset:** Cliente deve levar equipamento à loja (não abrir OS)
+• **Falta de Interação (LOS):** Gerar N3 e informar provedor no grupo
+• **Sem LOS:** Apenas informar provedor no grupo e finalizar atendimento
+• **Visita Improdutiva:** Taxa somente em casos específicos com danos no equipamento
+
+**📋 Transferências Corretas:**
+• Mudança de endereço → Comercial (ShowRoom)
+• Cancelamento → Ouvidoria
+• IP Fixo → CONTRATAR PJ (Canal Empresarial)
+• IPTV → N2 (dentro do horário comercial) ou abrir N2 (fora do horário)
+• Mudança de ponto → Transferir (continuidade em horário comercial)
+
+**⚠️ Observações:**
+• Não utilizar termo "abrir ordem de serviço"
+• Sempre colocar em contratos na abertura
+• Não fazem cabeamento para outros equipamentos (TV, computador)
+• Utilizam IPV4 e IPV6 (maioria IPV4, IP fixo público é IPV4)
+
+---
+netcenter_financeiro::💰 *NETCENTER – Financeiro:*
+
+**💳 Sistema de Cobrança:**
+• **Método:** Pré-pago (fatura do mês seguinte)
+• **Exemplo:** Fatura vencimento 25/09 = período 01/10 a 31/10
+
+**🚫 Bloqueio:**
+• **Prazo:** No 4º dia de atraso
+• **IP bloqueado:** Faixa 172.xxx.xxx.xxx
+• **Redução de velocidade:** Não possui
+
+**🔓 Desbloqueio de Confiança:**
+• **Frequência:** 1x a cada 30 dias
+• **Validade:** 2 dias
+• **Alternativa:** Função "Liberar Manualmente" se não disponível
+• **Limite:** Até 3 faturas em atraso (enviar mais recente)
+
+**💰 Métodos de Pagamento:**
+• Boleto
+• Código de Barras
+• PIX
+• Cartões de crédito/débito (em loja)
+
+**📄 Múltiplas Faturas:**
+• Se cliente informa não ter usado algum período: financeiro avalia através do Histórico de Conexão
+• Pode cancelar fatura se comprovado não uso
+• Encaminhar ao setor financeiro para verificação
+
+**📋 Comprovante de Pagamento:**
+• Anexar na descrição do atendimento/O.S. após liberação
+
+**⏸️ Suspensão Temporária:**
+• **Prazo:** Mínimo 30 dias, máximo 120 dias
+• **Procedimento:** Transferir ao Setor de Cancelamento (Ouvidoria)
+
+**📧 Envio de Fatura:**
+• Disponível mediante solicitação
+
+---
+netcenter_atendimento::📞 *NETCENTER – Contatos:*
+
+**📞 Atendimento Principal:**
+• Telefone/WhatsApp: 0800 680 0002
+
+**🌐 Sistemas:**
+• IXC: https://sistema.netcentertelecom.com.br/adm.php
+• Central do Assinante: https://sistema.netcentertelecom.com.br/central_assinante_web/login
+• Login: CPF
+• Senha: 4 primeiros dígitos do CPF
+
+**📱 Redes Sociais:**
+• Facebook: https://pt-br.facebook.com/oficialnetcenter/
+• Instagram: https://www.instagram.com/netcenteroficial/
+
+**⏰ Horários de Atendimento:**
+
+**🏪 LOJA:**
+• Segunda à Sexta: 08h às 18h
+• Sábado: 08h às 13h (Extremo Sul: até 12h)
+
+**📞 SAC E SUPORTE:**
+• Segunda à Sábado: 18h às 00h
+• Domingo: 08h às 23h
+
+**🏢 Contratações:**
+• Coletar informações necessárias
+• Encaminhar ao Setor CONTRATAR (Canal Digital)
+• Mensagem sugestiva: "Fico feliz em saber que deseja adquirir um de nossos planos. Abaixo, vou te encaminhar alguns dados necessários..."
+• Dados: Nome Completo, CPF, Cidade
+
+---
+netcenter_reset::🔄 *NETCENTER – Reset:*
+
+**🔧 Procedimento de Reset:**
+• **Local:** Apenas em loja física
+• **OS:** Não abrir ordem de serviço para reset
+• **Orientação:** Informar cliente para levar equipamento à loja
+• **Reconfiguração:** Para roteador novo, repetidor ou similares
+
+**📋 Recursos Disponíveis:**
+• Planilha de senhas disponível para padrão técnico
+• Planilha de Acessos 1 e 2 (links internos)
+• Senhas devem ser alteradas para manter padrão do provedor
+
+**⚠️ Observação:**
+• Caso senha não esteja de acordo com planilhas: deve ser alterada para manter padrão
+• Acesso limitado para clientes com equipamentos próprios
+
+lasernet_planos::📶 *LASERNET – Planos:*
+
+*Planos Fibra:*
+R$ 49,90 - 50MB
+R$ 59,90 - 75MB
+R$ 69,90 - 100MB
+R$ 79,90 - 200MB
+R$ 89,90 - 400MB
+R$ 99,90 - 600MB
+
+*Planos Rádio:*
+R$ 49,90 - 10MB
+R$ 59,90 - 20MB
+R$ 69,90 - 30MB
+
+*Observações:*
+- Possui taxa de instalação
+- Tecnologias: Fibra e Rádio
+---
+lasernet_cobertura::🌍 *LASERNET – Cobertura:*
+
+Barroso - Fortaleza/CE
+
+Possui atendimento presencial no endereço:
+Travessa Jonas Bezerra, 300 - Barroso - Fortaleza-CE
+---
+lasernet_equipamentos::🛠️ *LASERNET – Equipamentos:*
+
+*Equipamentos e Senhas de Acesso:*
+
+**W4-300F:** admin / Lnt12345@
+**W5-1200G:** admin / Lnt12345@
+**IWR3000:** - / P=a5tr3NeL!w3000
+**RG1200:** - / P=a5tr3NeL!g1200
+**RF1200:** - / P=a5tr3NeL!f1200
+**GF1200:** - / lnt12345@
+**RF301K:** - / a5tr3NeL301K
+**INTELBRAS:** admin / Lnt12345@
+
+*Porta de acesso:* 9020
+
+⚠️ **Importante:** Não passar acesso padrão ao cliente. Se solicitado, trocar senha para preferência do cliente e registrar no sistema.
+---
+lasernet_suporte::🔧 *LASERNET – Suporte:*
+
+- **Horário:** Segunda a Sábado das 08h às 18h
+- **Prazo de atendimento:** 48h
+- **Reset:** Abrir OS (sem cobrança)
+- **Plantão:** Não há plantão aos finais de semana e feriados
+- **Visita improdutiva:** Não é cobrado (só se cliente danificar equipamento)
+- **Mudança de ponto:** R$ 20,00
+- **Site para teste de velocidade:** https://www.speedtest.net/pt
+- **Repetidores:** Alguns clientes com roteador adicional (comodato)
+- **Cancelamento:** Abrir ocorrência no UPSOFT
+---
+lasernet_financeiro::💰 *LASERNET – Financeiro:*
+
+- **Bloqueio Parcial (Redução):** 30 dias
+- **Bloqueio Total:** 35 dias
+- **Desbloqueio de confiança:** Sim (não liberar com mais de 35 dias de atraso)
+- **Pagamento:** Fatura com QR Code PIX no boleto
+- **Comprovantes:** Aceitos em feriados/fins de semana (agendamento), dias úteis (apenas pagamento)
+- **Pagamento invertido:** Não faz inversão, apenas aumenta prazo de liberação
+- **Carnê:** Disponível mediante solicitação
+---
+lasernet_atendimento::📞 *LASERNET – Contatos:*
+
+📞 **Telefone:** (85) 3276-5247
+📱 **WhatsApp:** (85) 98887-9808
+🌐 **Site:** http://170.82.44.20/
+👤 **Central do Assinante:** https://central.lasernet.net.br/accounts/central/login
+🏢 **Sistema:** http://170.82.44.23:8000/accounts/login?
+
+**Login Central:** CPF do cliente
+**Senha Central:** ID do contrato do cliente
+
+**Endereço:**
+Travessa Jonas Bezerra, 300 - Barroso - Fortaleza-CE
+
+**Horário de Atendimento:**
+Segunda a Sábado das 08h às 18h
+---
+lasernet_reset::🔄 *LASERNET – Reset de Equipamento:*
+
+- **Procedimento:** Abrir OS no sistema
+- **Custo:** Sem cobrança
+- **Troca de senha:** Pode ser realizada sem custo
+- **Observação:** Registrar alterações no sistema
+- **Acesso remoto:** Disponível quando possível
+---
+meganets_planos::📶 *MEGANETS – Planos:*
+
+
+---
+sette_planos::📶 *SETTE FIBRA – Planos:*
+
+**🌐 Tecnologias Oferecidas:**
+• **Internet:** Fibra óptica
+• **Canais de TV:** Streaming integrado
+• **Telefonia:** Chip celular
+• **SVA's:** GloboPlay, Premiere, HBO Max, Looke, Deezer
+
+**📺 Streaming Inclusos:**
+
+**🎬 GloboPlay e Premiere:**
+• **Login:** E-mail cadastrado no IXC
+• **Ativação:** Link enviado por e-mail
+• **Recuperação:** Pelo próprio app
+
+**🎭 HBO Max e Looke:**
+• **E-mail:** De preferência do cliente
+• **Conta:** Pode criar nova ou vincular existente
+• **Recuperação:** Pelo próprio app
+
+**🎵 Deezer:**
+• Serviço de música streaming
+• Configuração via suporte
+
+**📱 Chip de Telefonia:**
+• **Contratação:** Transferir para provedor
+• **Suporte:** Transferir para provedor
+• **Horário:** Informar horário comercial se fora do período
+
+**⚠️ Observações:**
+• Problemas apenas com TV/SVA's: encaminhar N2
+• Sempre informar prazo de atendimento
+• Suporte fará contato com cliente
+• Contratação: encaminhar ao Setor VENDAS
+
+---
+sette_cobertura::🌍 *SETTE FIBRA – Cobertura:*
+
+**🏙️ Cidades Atendidas:**
+• **Abadiânia** - GO
+• **Anápolis** - GO
+• **Corumbá de Goiás** - GO
+• **Goianápolis** - GO
+• **Nerópolis** - GO
+• **Planalmira** - GO
+• **Posse D'Abadia** - GO
+• **Terezópolis de Goiás** - GO
+
+**🏢 Endereços das Lojas:**
+
+**📍 Corumbá de Goiás:**
+• Avenida Engenheiro Roberto Muller, 576 - QD 19 - Centro
+
+**📍 Senador Canedo:**
+• Rua Itapeva, QD36, LT18, Apt 01, SN - Vila Santa Rosa
+
+**📍 Abadiânia:**
+• Av. Otacílio Fernandes De Lima, Qd.08, Lt.02, Sala 06 - Centro
+
+**📍 Anápolis (Brasil Park Shopping):**
+• Av. Brasil Norte, 505 - Centro - Brasil Park Shopping
+
+**📍 Anápolis (Jardim Alexandrina):**
+• Avenida 24 de Agosto, Q3, L6 - Acima da academia Unique - Jardim Alexandrina
+
+**📍 Goianápolis:**
+• Av. Camila Delfina de Jesus, 26-A - Centro
+
+**🏪 Atendimento Presencial:**
+• **Disponível:** Sim, em todas as lojas
+• **Horário:** Segunda a Sexta 08h às 18h, Sábado 08h às 12h
+
+---
+sette_equipamentos::🛠️ *SETTE FIBRA – Equipamentos:*
+
+**📡 Equipamentos Utilizados:**
+
+**🌐 FIBRA:**
+• Huawei
+• ZTE
+• FiberHome
+• Ubiquiti
+
+**📶 Antenas Wireless:**
+• Ubiquiti
+
+**🔐 Portas de Acesso:**
+• **Porta 80**
+• **Porta 8077**
+• **Protocolos:** https:// e http://
+
+**👤 Credenciais Padrão:**
+
+**🔑 Senhas Convencionais:**
+• **LOGIN:** se77e / se77e
+• **SENHA:** !@#7aces / 77acesso
+
+**🏭 Por Fabricante:**
+
+| Fabricante | Login | Senha |
+|------------|-------|-------|
+| **HUAWEI** | telecomadmin | admintelecom |
+| **ZTE** | multipro | multipro |
+| **FiberHome** | admin | admin |
+
+**⚠️ Senhas Alternativas:**
+• 7&Acess@
+• !@#7aces
+• Se nenhuma funcionar: confirmar com cliente se alterou
+
+**🔐 Política de Senhas:**
+• **Equipamento comodato:** NÃO fornecer senha ao cliente
+• **Roteador próprio:** Pode informar PPPoE
+• **Senha WiFi preset:** 40519377
+
+**🔄 Procedimentos de Reset:**
+• **Reset autorizado:** Sim, pode auxiliar
+• **PPPoE:** Informar independente de comodato
+• **Preset sem acesso:** Tentar reset para configurações de fábrica
+• **Configuração:** Orientar com PPPoE do zero
+
+**🌐 DNS:**
+• **Padrão:** Não configurar
+• **Casos necessários:** 143.0.252.10 e 143.0.252.20
+
+**📶 Sinal Ideal:**
+• **RX:** Até -25dBm
+• **Abaixo:** Encaminhar N2
+
+**🛠️ Suporte a Repetidores:**
+• **Próprios:** R$ 100,00 (venda + instalação + suporte)
+• **Terceiros:** R$ 30,00 (suporte)
+• **Procedimento:** Abrir N2 ou encaminhar Atendimento
+
+---
+sette_suporte::🔧 *SETTE FIBRA – Suporte Técnico:*
+
+**⏰ Horários UPCALL (GMT-3):**
+• **Segunda a Sábado:** 22h às 08h
+• **Domingos e Feriados:** 24h
+• **Transbordo telefone:** A partir das 20h
+
+**⏰ Horário Suporte Interno:**
+• **Segunda a Sábado:** 08h às 22h
+
+**🔧 Estrutura de Suporte:**
+• **OUTRAS DEMANDAS:** Questões comerciais/financeiras/streamings
+• **N2:** Apenas questões técnicas
+• **N3:** Controlado pelo provedor (não enviar direto)
+
+**⏱️ Prazos de Atendimento:**
+• **Primeiro contato:** Até 24h úteis
+• **OS AGENDADA:** Usar campo "DATA RESERVA" (informar só o dia)
+• **Nunca informar:** Horário/período específico
+
+**🛠️ Plantão Técnico N3:**
+
+| Dia | Horário |
+|-----|----------|
+| **Segunda a Sexta** | 08h às 21h |
+| **Sábado** | 08h às 16h |
+| **Domingo** | 08h às 14h |
+
+**💰 Custos de Visita:**
+• **Improdutiva:** R$ 30,00
+• **Pagamento:** Flexível (imediato ou próxima fatura)
+
+**📋 Procedimentos Específicos:**
+
+**🔍 Falta de Interação:**
+• **Clientes desconectados:** Abrir N2
+
+**📺 Problemas TV/SVA's:**
+• **Encaminhar:** N2
+• **Informar:** Prazo de atendimento
+• **Orientar:** Suporte fará contato
+
+**📱 Chip/Telefonia:**
+• **Transferir:** Para provedor
+• **Horário:** Informar se fora do comercial
+
+**🔄 Agendamento:**
+• **Existe setor:** Sim
+• **Informar:** Setor responsável entrará em contato
+• **Não informar:** Que será técnico diretamente
+
+**📶 IPTV:**
+• **Configurações:** Verificar conexão geral
+• **Orientação:** ANATEL
+• **Insistência:** Abrir N2 + transferir
+
+**🏠 Mudanças e Novos Pontos:**
+• **Novo ponto:** N2 - R$ 60,00
+• **Mudança endereço:** N2 - R$ 100,00 à vista / R$ 120,00 parcelado
+• **Horário comercial:** Transferir para Suporte do Provedor
+
+**💰 IP Fixo:**
+• **Disponível:** Sim
+• **Procedimento:** Consultar valores via N2
+
+**⚠️ Observações Importantes:**
+• Ao abrir N2: não informar sobre visita
+• Informar: "abriu CHAMADO" e "equipe responsável dará retorno"
+• Urgências: informar no grupo
+• Sempre verificar fidelidade contratual para streamings
+
+---
+sette_financeiro::💰 *SETTE FIBRA – Financeiro:*
+
+**📄 Envio de Fatura:**
+• **Disponível:** Sim
+• **Procedimento:** Solicitar via atendimento
+
+**🔓 Desbloqueio de Confiança:**
+• **Disponível:** Sim
+• **Frequência:** 1 vez por mês
+• **Procedimento:** Realizar via sistema
+
+**🚫 Bloqueio:**
+• **Prazo:** 8 dias após vencimento
+• **Execução:** Apenas em dias úteis
+• **Bloqueio total:** Somente em dias úteis
+
+**📉 Redução de Velocidade:**
+• **Disponível:** Sim
+• **Início:** 1 dia após vencimento
+• **Liberação:** 1 vez a cada 30 dias
+
+**💳 Métodos de Pagamento:**
+• **Boleto:** Fatura tradicional
+• **Cartão:** Disponível
+• **PIX:** QR Code no boleto
+• **Comprovante PIX:** Solicitar para dar baixa
+
+**📋 Comprovante de Pagamento:**
+• **Procedimento:** Abrir OS para envio
+• **Anexar:** Comprovante na OS
+
+**👥 Clientes Especiais:**
+
+**📝 "AGUARDANDO ASSINATURA":**
+• **Procedimento:** Encaminhar ao provedor
+• **Objetivo:** Validar aceite do contrato
+
+**📺 Clientes de Streaming:**
+
+**🔍 Verificação Obrigatória:**
+1. **Verificar fidelidade contratual** (informar supervisão)
+2. **Se fidelidade expirou:**
+   - Informar ao cliente
+   - Avisar que equipe entrará em contato em dia útil
+   - Proceder com atendimento padrão
+
+**💰 Valores de Serviços:**
+• **Repetidor próprio:** R$ 100,00 (venda + instalação)
+• **Suporte repetidor terceiros:** R$ 30,00
+• **Novo ponto:** R$ 60,00
+• **Mudança endereço:** R$ 100,00 à vista / R$ 120,00 parcelado
+• **Visita improdutiva:** R$ 30,00
+
+**⚠️ Observações:**
+• Pagamentos flexíveis (imediato ou próxima fatura)
+• Sempre verificar fidelidade antes de ações em streamings
+• Desbloqueio limitado a 1 vez por mês
+• Redução de velocidade liberável 1 vez a cada 30 dias
+
+---
+sette_atendimento::📞 *SETTE FIBRA – Contatos:*
+
+**📞 Contatos Principais:**
+• **Goiás:** (62) 4051-9377
+• **Brasília:** (61) 3686-7700
+
+**🌐 Sistemas:**
+• **IXC:** https://ixc.se77e.com.br/login.php
+• **Central do Assinante:** https://ixc.se77e.com.br/central_assinante_web/login
+• **Site:** https://settefibra.com.br/
+• **Facebook:** https://www.facebook.com/Se77etelecom
+
+**⏰ Horários de Atendimento:**
+
+**🏪 LOJA (E DEMAIS SETORES):**
+• **Segunda a Sexta:** 08h às 18h
+• **Sábado:** 08h às 12h
+
+**🔧 SUPORTE INTERNO:**
+• **Segunda a Sábado:** 08h às 22h
+
+**📞 UPCALL:**
+• **Segunda a Sábado:** 22h às 08h
+• **Domingos e Feriados:** 24h
+• **Transbordo telefone:** A partir das 20h
+
+**🛠️ PLANTÃO TÉCNICO N3:**
+• **Segunda a Sexta:** 08h às 21h
+• **Sábado:** 08h às 16h
+• **Domingo:** 08h às 14h
+
+**🏢 Endereços Completos:**
+
+**📍 Corumbá de Goiás:**
+• Avenida Engenheiro Roberto Muller, 576 - QD 19 - Centro
+
+**📍 Senador Canedo:**
+• Rua Itapeva, QD36, LT18, Apt 01, SN - Vila Santa Rosa
+
+**📍 Abadiânia:**
+• Av. Otacílio Fernandes De Lima, Qd.08, Lt.02, Sala 06 - Centro
+
+**📍 Anápolis (Brasil Park):**
+• Av. Brasil Norte, 505 - Centro - Brasil Park Shopping
+
+**📍 Anápolis (Jardim Alexandrina):**
+• Avenida 24 de Agosto, Q3, L6 - Acima da academia Unique
+
+**📍 Goianápolis:**
+• Av. Camila Delfina de Jesus, 26-A - Centro
+
+**🔧 Setores Disponíveis:**
+• **VENDAS:** Contratações e novos serviços
+• **Atendimento:** Questões comerciais e financeiras
+• **Suporte do Provedor:** Questões técnicas
+• **Contact Center:** Suporte geral
+
+**📱 Canais de Atendimento:**
+• **Presencial:** Todas as lojas
+• **Telefone:** Goiás e Brasília
+• **Chat:** Via sistema
+• **Central do Assinante:** Online
+
+**⚠️ Observações:**
+• UPSOFT operacional
+• Chat e ligação disponíveis
+• Transbordo ativo no telefone
+• Atendimento presencial em todas as cidades
+• Horários diferenciados para cada setor
+
+---
+sette_reset::🔄 *SETTE FIBRA – Reset e Configurações:*
+
+**🔐 Política de Senhas:**
+• **Equipamento comodato:** NÃO fornecer senha
+• **Roteador próprio:** Pode informar PPPoE
+• **Reset:** Pode auxiliar cliente
+• **PPPoE:** Informar independente de comodato
+
+**🔧 Procedimentos de Reset:**
+• **Autorizado:** Sim, auxiliar cliente
+• **Combinação PPPoE:** Passar independente de comodato
+• **Preset padrão:** Senha WiFi 40519377
+• **Sem acesso preset:** Reset para configurações de fábrica
+• **Configuração zero:** Orientar com PPPoE
+
+**🔐 Credenciais de Acesso:**
+
+**🔑 Senhas Convencionais:**
+• **LOGIN:** se77e / se77e
+• **SENHA:** !@#7aces / 77acesso
+• **Alternativas:** 7&Acess@ / !@#7aces
+
+**🏭 Por Fabricante:**
+• **HUAWEI:** telecomadmin / admintelecom
+• **ZTE:** multipro / multipro
+• **FiberHome:** admin / admin
+
+**🌐 Portas de Acesso:**
+• **Porta 80**
+• **Porta 8077**
+• **Testar:** https:// e http://
+
+**🌐 Configurações DNS:**
+• **Padrão:** Não configurar
+• **Casos necessários:** 143.0.252.10 e 143.0.252.20
+
+**📶 Verificações Técnicas:**
+• **Sinal ideal:** Até RX -25dBm
+• **Abaixo ideal:** Encaminhar N2
+
+**💰 Custos de Serviço:**
+• **Troca senha (necessário OS):** Verificar com N2
+• **Visita técnica:** Setor responsável informa taxa
+
+**🛠️ Suporte a Equipamentos:**
+• **Repetidores próprios:** R$ 100,00 (completo)
+• **Repetidores terceiros:** R$ 30,00 (suporte)
+• **Procedimento:** Abrir N2
+
+**📺 IPTV:**
+• **Configurações:** Verificar conexão geral
+• **Orientação:** ANATEL
+• **Persistência:** Abrir N2 + transferir
+
+**⚠️ Observações Importantes:**
+• Se senha não funcionar: confirmar se cliente alterou
+• Sempre tentar senhas convencionais primeiro
+• Reset para preset: usar senha WiFi padrão
+• Casos complexos: encaminhar N2
+• Não informar sobre visita ao abrir N2
+• Informar: "CHAMADO aberto" e "equipe dará retorno"
+
+**🔄 Procedimento Completo:**
+1. Verificar se equipamento é comodato
+2. Tentar senhas convencionais
+3. Se reset: orientar configuração básica
+4. Passar PPPoE se necessário
+5. Casos sem sucesso: abrir N2
+6. Informar prazo de retorno (24h úteis)
+
+// ... existing code ...
+
+---
+vivas_planos::📶 *VIVAS – Planos:*
+
+**🏙️ Planos Urbanos:**
+• **300 Mb/s**
+• **400 Mb/s** 
+• **600 Mb/s**
+• **700 Mb/s**
+• **1 Gb/s**
+
+**🌾 Planos Rurais:**
+• **80 Mb/s**
+• **100 Mb/s**
+• **150 Mb/s**
+
+**⚠️ Observação:** Existem exceções descritas na planilha de valores Vivas
+
+**👤 Dados para Pessoa Física:**
+• Nome completo
+• Telefone
+• E-mail
+• Endereço
+• Plano de interesse
+
+**🏢 Dados para Pessoa Jurídica:**
+• Nome e Nome da Empresa
+• CNPJ
+• Telefone e E-mail
+• Endereço
+• Quantidade de computadores/funcionários
+• IP Fixo necessário?
+• Utiliza ramais? Quantos?
+
+**📋 Encaminhamento:** Solicitar dados e encaminhar ao Setor Contratar ou Comercial
+
+**🔄 Mudança de Plano:**
+• Apenas titular pode solicitar
+• Não pode ter fatura em aberto
+• Renovação de fidelidade: 12 meses
+• Reajuste: Conforme IGP-M
+• Próximo boleto: Valor proporcional
+
+**🎙️ Áudio Obrigatório (Atalho /planoVivas):**
+"Eu, [NOME COMPLETO], portador do CPF [CPF], solicito a atualização para o plano de [QUANTIDADE DE MEGAS] por [VALOR DO PLANO] e aceito a renovação da fidelidade de 12 meses."
+
+---
+vivas_cobertura::🌍 *VIVAS – Cobertura:*
+
+**🏙️ Cidades de Atuação (23 cidades):**
+• Nazaré Paulista
+• Santa Branca
+• Cruzeiro
+• Jacareí
+• Lorena
+• São José dos Campos
+• Cachoeira Paulista
+• Guararema
+• Atibaia
+• Mogi das Cruzes
+• Santa Isabel
+• Igaratá
+• Caçapava
+• Arujá
+• Jarinu
+• Tremembé
+• Roseira
+• Taubaté
+• Guaratinguetá
+• Itatiba
+• Campos do Jordão
+• Pindamonhangaba
+• Potim
+
+**🏪 Lojas Físicas (12 endereços):**
+
+**📍 JACAREÍ:**
+• Av. Dom Pedro Primeiro, 263 - Parque dos Príncipes (Ao lado do Depósito Planalto)
+• Av. dos Migrantes, 483 - Parque Meia Lua (Ao lado da Loja Pôr do Sol)
+• Av. São João, 320 - São João
+
+**📍 CAMPOS DO JORDÃO:**
+• Rua Joaquim Correa Cintra, 285 - Vila Paulista (Próximo ao Colégio TCC)
+
+**📍 TAUBATÉ:**
+• Rua Martin Luther King, 62 - Bairro Mourisco (Ao lado do Restaurante Zé do Espetinho)
+
+**📍 PINDAMONHANGABA:**
+• Av. Ponciano Pereira, 1211 - Jardim Eloyna
+• Rua Paulo Carvalho, 41 - Conjunto Habitacional Terras de IPE 1
+• Rotatória Amárcio Mazzarope, Av. Dr Francisco Lessa Jr, 1900 - Emporium Valle - Sala 16
+
+**📍 ITATIBA:**
+• Av. Prudente de Moraes, 167 - Centro (Próximo ao Supermercado Tescarollo)
+
+**📍 IGARATÁ:**
+• Av. Benedito Rodrigues de Freitas, 385 - Centro, Palácio Moacir Prianti Chaves - Sala 02
+
+**📍 JARINU:**
+• Rua João Pessoa, 339 - Centro (Próximo a Previdência Social)
+
+**📍 SANTA ISABEL:**
+• Av. Manoel Ferraz de Campos Sales, 333 - Centro (Em frente a Limp Logo's)
+
+**📍 CACHOEIRA PAULISTA:**
+• Av. Coronel Domiciano, 579 - Centro
+
+**📍 SÃO JOSÉ DOS CAMPOS:**
+• Rua Armadores, 152 - Novo Horizonte (Em frente a Igreja Missionária Nasci para Vencer)
+
+**📍 ATIBAIA:**
+• Av. Jerônimo de Camargo, 5970 - Caetetuba
+
+---
+vivas_equipamentos::🛠️ *VIVAS – Equipamentos:*
+
+**📡 Equipamentos Utilizados:**
+• **Modem**
+• **Roteador**
+• **Smart Box**
+
+**🔐 Acesso aos Equipamentos:**
+• **Não temos acesso** aos CPE's para configurações
+• **Não é via Browser** com VPN
+• **Software específico** ainda não liberado
+
+**🔧 Suporte a Equipamentos:**
+• **Repetidores:** ❌ Não presta suporte
+• **Câmeras:** ❌ Não presta suporte
+
+**🔑 Senha do Roteador:**
+• **Alguns casos:** Possível informar
+• **Geralmente:** Criada nova senha
+• **Condição:** Mesmo com pendência financeira
+• **Atualização:** Remota ou via técnico
+• **⚠️ IMPORTANTE:** Somente o titular pode solicitar
+
+**💰 Custos de Serviço:**
+• **Troca de senha Wi-Fi:** Sem custo
+• **Condição:** Desde que não haja recorrência
+• **OS necessária:** Abrir se não tiver acesso remoto
+
+**📋 Procedimento para Troca de Senha:**
+
+Tipo de Solicitação: Atendimento - UPCHAT
+Equipe de Origem: 1.00 - UPCALL
+Situação: 24x7 - Vivas - 48 horas
+Status: Andamento
+Equipe: 1.03 - UPCALL - TÉCNICO
+Responsável: (Em Branco)
+Relatos Padrões: 1.05 - ENC - Análise Técnica
+Enviar E-mail: (Desmarcado)
+
+---
+vivas_suporte::🔧 *VIVAS – Suporte:*
+
+**⏰ Horário UPCALL (GMT -3):**
+• **1º PA Chat e Ligação:** 00h às 06h
+• **2º PA Chat:** 08h às 16h
+• **2º PA Chat:** 16h às 00h
+• **UPSOFT:** Em desenvolvimento
+
+**📞 Canais de Atendimento:**
+• **Chat e Ligação** disponíveis
+• **Transferência por falta de interação:** Apenas 45 minutos
+
+**🏢 Sistema Utilizado:**
+• **Voalle + UPCHAT + Setores**
+• **Não utilizam transferências** para outras demandas
+• **Apenas abertura de protocolo** pelo Voalle
+
+**⚠️ Procuração Obrigatória:**
+Para atendimento por procuradores, é obrigatório anexar procuração registrada
+
+**🔧 Tecnologias Oferecidas:**
+• **Internet Fibra**
+• **Telefonia Fixa**
+• **App TV Vivas**
+
+**📋 Encaminhamentos Técnicos:**
+• **Telefonia Fixa:** UPCALL - TÉCNICO
+• **App TV Vivas:** UPCALL - TÉCNICO
+
+Tipo de Solicitação: Atendimento - UPCHAT
+Equipe de Origem: 1.00 - UPCALL
+Situação: 24x7 - Vivas - 48 horas
+Status: Andamento
+Equipe: 1.03 - UPCALL - TÉCNICO
+Responsável: (Em Branco)
+Relatos Padrões: 1.05 - ENC - Análise Técnica
+Enviar E-mail: (Desmarcado)
+
+**📶 Teste de Velocidade:**
+• **Site oficial:** fast.com
+
+**🔧 Estrutura de Suporte:**
+• **Não possui N2/N3 separados**
+• **Todas as demandas** → UPCALL - TÉCNICO
+
+**⏰ Prazo de Atendimento:**
+• **Residencial e Corporativo:** Até 48h corridas
+• **Válido para TODOS os protocolos** (financeiro, comercial, suporte)
+• **Informar:** Prazo máximo, equipe tenta solucionar o mais breve possível
+
+**🛠️ Agendamento e Visitas:**
+• **Agendamento:** Setor realiza tentativas de contato
+• **Sem sucesso:** Técnico vai direto
+• **Sábados:** Apenas manutenções (não mudanças/ativações)
+
+**⏰ Horários de Visita Técnica:**
+• **Segunda a Quinta:** 08h às 18h
+• **Sexta, Sábado e Domingo:** 08h às 17h
+
+**💰 Forma de Pagamento de Serviços:**
+• **Nota avulsa** gerada no sistema
+• **Enviada por e-mail**
+• **Acesso:** Via app ou site
+
+**❌ Serviços Não Disponíveis:**
+• **IPTV:** Não trabalha
+
+**💰 IP Fixo:**
+• **Disponível:** Sim
+• **Valor:** À consultar com setor Tratativas PJ
+
+**🔄 Falta de Interação:**
+• **Não finalizar** o atendimento
+• **Transferir** ao Setor de Ociosidade
+• **Exceções:** Protocolo já aberto + cliente orientado
+• **Exceções:** Solicitação já solucionada
+
+**🏠 Mudanças e Novos Pontos:**
+• **Mudança de cômodo:** R$ 50,00 + cabeamento
+• **Segundo ponto:** Processo de nova instalação
+• **UpCall:** Pode abrir OS para Upgrade/Downgrade
+
+---
+vivas_financeiro::💰 *VIVAS – Financeiro:*
+
+**🚫 Bloqueio:**
+• **Prazo:** 20 dias de atraso
+
+**🔓 Desbloqueio de Confiança:**
+• **Disponível:** Não via UPCALL
+• **Como fazer:** URA do Chat ou Ligação
+• **Frequência:** 1x a cada 30 dias
+• **Com comprovante:** Liberação mesmo com Bloqueio Administrativo
+• **Procedimento:** Anexar comprovante no protocolo
+
+**⏰ Tempo de Liberação:**
+• **Duração:** 24 horas
+
+**📉 Redução de Velocidade:**
+• **Disponível:** Não possui
+
+**💳 Métodos de Pagamento:**
+• **Boleto**
+• **PIX**
+• **App** (aceita cadastro de Cartão de Crédito)
+
+**📄 Envio de Fatura:**
+• **Disponível:** Sim
+
+**📋 Procedimento para Comprovante:**
+
+**💰 Pagamento via Boleto - Verificar:**
+• É comprovante ou agendamento?
+• Código de barra bate com a fatura?
+• Beneficiário é a Vivas?
+• Data de vencimento bate?
+• Data de pagamento?
+• Valor e juros batem?
+• Possui código de autenticação?
+
+**💰 Pagamento via PIX - Verificar:**
+• É comprovante ou agendamento?
+• Beneficiário é a Vivas?
+• Data de vencimento bate?
+• Valor e juros batem?
+• Data de liquidação?
+• Possui código de autenticação?
+• **PIX:** Baixa geralmente instantânea
+
+**❌ Cancelamento:**
+• **Identificação positiva:** Nome, CPF, email, endereço, telefone
+• **Apenas titular** pode solicitar
+• **Não pode ter** fatura em atraso
+• **Registrar:** Motivo do cancelamento
+• **Protocolo de ativação:** Não gerar protocolo específico
+
+**🎙️ Áudio Obrigatório (Atalho /cancelaVivas):**
+"Eu, [NOME COMPLETO], portador do CPF [CPF], solicito cancelamento do plano contratado pelo motivo [se possível informe]."
+
+Tipo de Solicitação: Atendimento - UPCHAT
+Equipe de Origem: 1.00 - UPCALL
+Situação: 24x7 - Vivas - 48 horas
+Status: Andamento
+Equipe: 1.02 - UPCALL - FINANCEIRO
+Responsável: (Em Branco)
+Relatos Padrões: 1.04 - ENC - Retorno ao Cliente
+Enviar E-mail: (Desmarcado)
+
+**📋 Demandas Financeiras:**
+• Desconto
+• Emissão de carnê ou boleto
+• Alteração de data de vencimento
+• Análise de duplicidade/pagamento
+• Contestação de valores
+• 2ª via de boleto
+• Bloqueio temporário
+• Acordo/renegociações
+
+**📄 Nota Fiscal de Atibaia:**
+• **Tipo:** Nota fiscal de serviço
+• **Não é cobrança:** Documento fiscal para registro
+• **Empresa:** Assistência técnica da VIVAS
+• **Envio:** Email cadastrado na prefeitura
+• **Observação:** Cliente deve estar cadastrado na prefeitura
+
+---
+vivas_atendimento::📞 *VIVAS – Contatos:*
+
+**📞 Contatos Principais:**
+• **Telefone/WhatsApp:** (12) 3014-0007
+• **Site:** https://vivastelecom.com.br/
+• **Email Comercial:** comercial@vivastelecom.com.br
+
+**🌐 Central do Assinante:**
+• **URL:** https://vivas.portal.7az.com.br/login
+• **Login:** CPF (sem pontos ou traços)
+• **Senha:** CPF (sem pontos ou traços)
+
+**⏰ Horários de Atendimento:**
+
+**🏢 Recepção e Financeiro:**
+• **Segunda à Quinta:** 08h às 18h
+• **Sexta:** 08h às 17h
+
+**🏪 Loja Jacareí - São João:**
+• **Segunda à Quinta:** 09h às 19h
+• **Sexta:** 09h às 18h
+
+**🏠 Mudança de Cômodo/Ponto:**
+• **Valor:** R$ 50,00 (boleto próxima fatura)
+• **Cabo de rede:** R$ 7,00/metro
+• **Cabo de fibra:** R$ 3,00/metro
+• **Apenas titular** pode solicitar
+• **Sem fatura em atraso**
+
+**🎙️ Áudio Obrigatório (Atalho /comodoVivas):**
+"Eu, [NOME COMPLETO], portador do CPF [CPF], solicito mudança de ponto e estou ciente das taxas pelo serviço."
+
+**🏠 Mudança de Endereço:**
+• **Gratuita:** Até 200m da CTO
+• **Excedente:** R$ 2,00/metro adicional
+• **Verificação:** Viabilidade do local
+• **Apenas titular** pode solicitar
+• **Sem fatura em atraso**
+
+**🎙️ Áudio Obrigatório (Atalho /enderecoVivas):**
+"Eu, [NOME COMPLETO], portador do CPF [CPF], solicito a mudança de endereço e confirmo que estou ciente das taxas aplicáveis."
+
+**📋 Observação Importante:**
+Divergência no endereço de instalação requer comprovante de endereço
+
+**👥 Troca de Titularidade:**
+• **Email:** comercial@vivastelecom.com.br
+• **Documentos:** RG frente/verso (antigo e novo titular)
+• **Loja:** Troca imediata com documentos
+• **Apenas titular atual** pode solicitar
+• **Sem débitos pendentes**
+• **Prazo:** 7 dias para devolução dos termos
+• **Óbito:** Novo titular solicita + certidão de óbito
+
+Tipo de Solicitação: Atendimento - UPCHAT
+Equipe de Origem: 1.00 - UPCALL
+Situação: 24x7 - Vivas - 48 horas
+Status: Andamento
+Equipe: 1.03 - UPCALL - TÉCNICO
+Responsável: (Em Branco)
+Relatos Padrões: 1.05 - ENC - Análise Técnica
+Enviar E-mail: (Desmarcado)
+
+**⚠️ Observações Especiais:**
+• **Pinhal Telecom:** Provedor do mesmo grupo (sistemas diferentes)
+• **Contato Pinhal:** Enviar dados no grupo do provedor
+• **Procuração:** Obrigatória para atendimento por terceiros
+• **Voalle:** Não utiliza transferências (apenas protocolos)
+
+---
+vivas_reset::🔄 *VIVAS – Reset:*
+
+**🔄 Procedimento de Reset:**
+
+Tipo de Solicitação: Atendimento - UPCHAT
+Equipe de Origem: 1.00 - UPCALL
+Situação: 24x7 - Vivas - 48 horas
+Status: Andamento
+Equipe: 1.03 - UPCALL - TÉCNICO
+Responsável: (Em Branco)
+Relatos Padrões: 1.05 - ENC - Análise Técnica
+Enviar E-mail: (Desmarcado)
+
+**📋 Informações para Protocolo:**
+• **RELATO DO CLIENTE:**
+• **ATENDIMENTO:** (Chat/Ligação)
+• **STATUS:** (Verde ou Vermelho)
+• **AUTENTICAÇÃO:** (Data e Hora da queda - Extrato de Conexão)
+• **DESCRIÇÃO:**
+• **SOLICITANTE:** (Nome de quem entrou em contato)
+• **TELEFONE:** (Número para retorno)
+
+**🔐 Política de Senhas:**
+• **Informar senha:** Depende do caso
+• **Geralmente:** Criada nova senha
+• **Pendência financeira:** Pode alterar normalmente
+• **⚠️ IMPORTANTE:** Somente titular pode solicitar
+
+**💰 Custos:**
+• **Sem custo:** Desde que não haja recorrência
+• **Com recorrência:** Será cobrado
+
+**📶 Teste de Velocidade:**
+• **Site oficial:** fast.com
+
+**🔧 Encaminhamento Técnico:**
+• **Todas as demandas** → UPCALL - TÉCNICO
+• **Não possui N2/N3** separados
+• **Prazo:** Até 48h corridas
+
+**⚠️ Observações:**
+• Acesso aos CPE's via software específico (não browser)
+• Software ainda não liberado para UPCALL
+• Reset pode ser necessário abrir OS se sem acesso remoto
+• Sempre registrar atendimento completo
+• Verificar se é caso de recorrência antes de informar gratuidade
+
+---
+sette_planos::📶 *SETTE FIBRA – Planos:*
+
+**🌐 Tecnologias Oferecidas:**
+• **Internet:** Fibra óptica
+• **Canais de TV:** Streaming integrado
+• **Telefonia:** Chip celular
+• **SVA's:** GloboPlay, Premiere, HBO Max, Looke, Deezer
+
+**📺 Streaming Inclusos:**
+
+**🎬 GloboPlay e Premiere:**
+• **Login:** E-mail cadastrado no IXC
+• **Ativação:** Link enviado por e-mail
+• **Recuperação:** Pelo próprio app
+
+**🎭 HBO Max e Looke:**
+• **E-mail:** De preferência do cliente
+• **Conta:** Pode criar nova ou vincular existente
+• **Recuperação:** Pelo próprio app
+
+**🎵 Deezer:**
+• Serviço de música streaming
+• Configuração via suporte
+
+**📱 Chip de Telefonia:**
+• **Contratação:** Transferir para provedor
+• **Suporte:** Transferir para provedor
+• **Horário:** Informar horário comercial se fora do período
+
+**⚠️ Observações:**
+• Problemas apenas com TV/SVA's: encaminhar N2
+• Sempre informar prazo de atendimento
+• Suporte fará contato com cliente
+• Contratação: encaminhar ao Setor VENDAS
+
+---
+sette_cobertura::🌍 *SETTE FIBRA – Cobertura:*
+
+**🏙️ Cidades Atendidas:**
+• **Abadiânia** - GO
+• **Anápolis** - GO
+• **Corumbá de Goiás** - GO
+• **Goianápolis** - GO
+• **Nerópolis** - GO
+• **Planalmira** - GO
+• **Posse D'Abadia** - GO
+• **Terezópolis de Goiás** - GO
+
+**🏢 Endereços das Lojas:**
+
+**📍 Corumbá de Goiás:**
+• Avenida Engenheiro Roberto Muller, 576 - QD 19 - Centro
+
+**📍 Senador Canedo:**
+• Rua Itapeva, QD36, LT18, Apt 01, SN - Vila Santa Rosa
+
+**📍 Abadiânia:**
+• Av. Otacílio Fernandes De Lima, Qd.08, Lt.02, Sala 06 - Centro
+
+**📍 Anápolis (Brasil Park Shopping):**
+• Av. Brasil Norte, 505 - Centro - Brasil Park Shopping
+
+**📍 Anápolis (Jardim Alexandrina):**
+• Avenida 24 de Agosto, Q3, L6 - Acima da academia Unique - Jardim Alexandrina
+
+**📍 Goianápolis:**
+• Av. Camila Delfina de Jesus, 26-A - Centro
+
+**🏪 Atendimento Presencial:**
+• **Disponível:** Sim, em todas as lojas
+• **Horário:** Segunda a Sexta 08h às 18h, Sábado 08h às 12h
+
+---
+sette_equipamentos::🛠️ *SETTE FIBRA – Equipamentos:*
+
+**📡 Equipamentos Utilizados:**
+
+**🌐 FIBRA:**
+• Huawei
+• ZTE
+• FiberHome
+• Ubiquiti
+
+**📶 Antenas Wireless:**
+• Ubiquiti
+
+**🔐 Portas de Acesso:**
+• **Porta 80**
+• **Porta 8077**
+• **Protocolos:** https:// e http://
+
+**👤 Credenciais Padrão:**
+
+**🔑 Senhas Convencionais:**
+• **LOGIN:** se77e / se77e
+• **SENHA:** !@#7aces / 77acesso
+
+**🏭 Por Fabricante:**
+
+| Fabricante | Login | Senha |
+|------------|-------|-------|
+| **HUAWEI** | telecomadmin | admintelecom |
+| **ZTE** | multipro | multipro |
+| **FiberHome** | admin | admin |
+
+**⚠️ Senhas Alternativas:**
+• 7&Acess@
+• !@#7aces
+• Se nenhuma funcionar: confirmar com cliente se alterou
+
+**🔐 Política de Senhas:**
+• **Equipamento comodato:** NÃO fornecer senha ao cliente
+• **Roteador próprio:** Pode informar PPPoE
+• **Senha WiFi preset:** 40519377
+
+**🔄 Procedimentos de Reset:**
+• **Reset autorizado:** Sim, pode auxiliar
+• **PPPoE:** Informar independente de comodato
+• **Preset sem acesso:** Tentar reset para configurações de fábrica
+• **Configuração:** Orientar com PPPoE do zero
+
+**🌐 DNS:**
+• **Padrão:** Não configurar
+• **Casos necessários:** 143.0.252.10 e 143.0.252.20
+
+**📶 Sinal Ideal:**
+• **RX:** Até -25dBm
+• **Abaixo:** Encaminhar N2
+
+**🛠️ Suporte a Repetidores:**
+• **Próprios:** R$ 100,00 (venda + instalação + suporte)
+• **Terceiros:** R$ 30,00 (suporte)
+• **Procedimento:** Abrir N2 ou encaminhar Atendimento
+
+---
+sette_suporte::🔧 *SETTE FIBRA – Suporte Técnico:*
+
+**⏰ Horários UPCALL (GMT-3):**
+• **Segunda a Sábado:** 22h às 08h
+• **Domingos e Feriados:** 24h
+• **Transbordo telefone:** A partir das 20h
+
+**⏰ Horário Suporte Interno:**
+• **Segunda a Sábado:** 08h às 22h
+
+**🔧 Estrutura de Suporte:**
+• **OUTRAS DEMANDAS:** Questões comerciais/financeiras/streamings
+• **N2:** Apenas questões técnicas
+• **N3:** Controlado pelo provedor (não enviar direto)
+
+**⏱️ Prazos de Atendimento:**
+• **Primeiro contato:** Até 24h úteis
+• **OS AGENDADA:** Usar campo "DATA RESERVA" (informar só o dia)
+• **Nunca informar:** Horário/período específico
+
+**🛠️ Plantão Técnico N3:**
+
+| Dia | Horário |
+|-----|----------|
+| **Segunda a Sexta** | 08h às 21h |
+| **Sábado** | 08h às 16h |
+| **Domingo** | 08h às 14h |
+
+**💰 Custos de Visita:**
+• **Improdutiva:** R$ 30,00
+• **Pagamento:** Flexível (imediato ou próxima fatura)
+
+**📋 Procedimentos Específicos:**
+
+**🔍 Falta de Interação:**
+• **Clientes desconectados:** Abrir N2
+
+**📺 Problemas TV/SVA's:**
+• **Encaminhar:** N2
+• **Informar:** Prazo de atendimento
+• **Orientar:** Suporte fará contato
+
+**📱 Chip/Telefonia:**
+• **Transferir:** Para provedor
+• **Horário:** Informar se fora do comercial
+
+**🔄 Agendamento:**
+• **Existe setor:** Sim
+• **Informar:** Setor responsável entrará em contato
+• **Não informar:** Que será técnico diretamente
+
+**📶 IPTV:**
+• **Configurações:** Verificar conexão geral
+• **Orientação:** ANATEL
+• **Insistência:** Abrir N2 + transferir
+
+**🏠 Mudanças e Novos Pontos:**
+• **Novo ponto:** N2 - R$ 60,00
+• **Mudança endereço:** N2 - R$ 100,00 à vista / R$ 120,00 parcelado
+• **Horário comercial:** Transferir para Suporte do Provedor
+
+**💰 IP Fixo:**
+• **Disponível:** Sim
+• **Procedimento:** Consultar valores via N2
+
+**⚠️ Observações Importantes:**
+• Ao abrir N2: não informar sobre visita
+• Informar: "abriu CHAMADO" e "equipe responsável dará retorno"
+• Urgências: informar no grupo
+• Sempre verificar fidelidade contratual para streamings
+
+---
+sette_financeiro::💰 *SETTE FIBRA – Financeiro:*
+
+**📄 Envio de Fatura:**
+• **Disponível:** Sim
+• **Procedimento:** Solicitar via atendimento
+
+**🔓 Desbloqueio de Confiança:**
+• **Disponível:** Sim
+• **Frequência:** 1 vez por mês
+• **Procedimento:** Realizar via sistema
+
+**🚫 Bloqueio:**
+• **Prazo:** 8 dias após vencimento
+• **Execução:** Apenas em dias úteis
+• **Bloqueio total:** Somente em dias úteis
+
+**📉 Redução de Velocidade:**
+• **Disponível:** Sim
+• **Início:** 1 dia após vencimento
+• **Liberação:** 1 vez a cada 30 dias
+
+**💳 Métodos de Pagamento:**
+• **Boleto:** Fatura tradicional
+• **Cartão:** Disponível
+• **PIX:** QR Code no boleto
+• **Comprovante PIX:** Solicitar para dar baixa
+
+**📋 Comprovante de Pagamento:**
+• **Procedimento:** Abrir OS para envio
+• **Anexar:** Comprovante na OS
+
+**👥 Clientes Especiais:**
+
+**📝 "AGUARDANDO ASSINATURA":**
+• **Procedimento:** Encaminhar ao provedor
+• **Objetivo:** Validar aceite do contrato
+
+**📺 Clientes de Streaming:**
+
+**🔍 Verificação Obrigatória:**
+1. **Verificar fidelidade contratual** (informar supervisão)
+2. **Se fidelidade expirou:**
+   - Informar ao cliente
+   - Avisar que equipe entrará em contato em dia útil
+   - Proceder com atendimento padrão
+
+**💰 Valores de Serviços:**
+• **Repetidor próprio:** R$ 100,00 (venda + instalação)
+• **Suporte repetidor terceiros:** R$ 30,00
+• **Novo ponto:** R$ 60,00
+• **Mudança endereço:** R$ 100,00 à vista / R$ 120,00 parcelado
+• **Visita improdutiva:** R$ 30,00
+
+**⚠️ Observações:**
+• Pagamentos flexíveis (imediato ou próxima fatura)
+• Sempre verificar fidelidade antes de ações em streamings
+• Desbloqueio limitado a 1 vez por mês
+• Redução de velocidade liberável 1 vez a cada 30 dias
+
+---
+sette_atendimento::📞 *SETTE FIBRA – Contatos:*
+
+**📞 Contatos Principais:**
+• **Goiás:** (62) 4051-9377
+• **Brasília:** (61) 3686-7700
+
+**🌐 Sistemas:**
+• **IXC:** https://ixc.se77e.com.br/login.php
+• **Central do Assinante:** https://ixc.se77e.com.br/central_assinante_web/login
+• **Site:** https://settefibra.com.br/
+• **Facebook:** https://www.facebook.com/Se77etelecom
+
+**⏰ Horários de Atendimento:**
+
+**🏪 LOJA (E DEMAIS SETORES):**
+• **Segunda a Sexta:** 08h às 18h
+• **Sábado:** 08h às 12h
+
+**🔧 SUPORTE INTERNO:**
+• **Segunda a Sábado:** 08h às 22h
+
+**📞 UPCALL:**
+• **Segunda a Sábado:** 22h às 08h
+• **Domingos e Feriados:** 24h
+• **Transbordo telefone:** A partir das 20h
+
+**🛠️ PLANTÃO TÉCNICO N3:**
+• **Segunda a Sexta:** 08h às 21h
+• **Sábado:** 08h às 16h
+• **Domingo:** 08h às 14h
+
+**🏢 Endereços Completos:**
+
+**📍 Corumbá de Goiás:**
+• Avenida Engenheiro Roberto Muller, 576 - QD 19 - Centro
+
+**📍 Senador Canedo:**
+• Rua Itapeva, QD36, LT18, Apt 01, SN - Vila Santa Rosa
+
+**📍 Abadiânia:**
+• Av. Otacílio Fernandes De Lima, Qd.08, Lt.02, Sala 06 - Centro
+
+**📍 Anápolis (Brasil Park):**
+• Av. Brasil Norte, 505 - Centro - Brasil Park Shopping
+
+**📍 Anápolis (Jardim Alexandrina):**
+• Avenida 24 de Agosto, Q3, L6 - Acima da academia Unique
+
+**📍 Goianápolis:**
+• Av. Camila Delfina de Jesus, 26-A - Centro
+
+**🔧 Setores Disponíveis:**
+• **VENDAS:** Contratações e novos serviços
+• **Atendimento:** Questões comerciais e financeiras
+• **Suporte do Provedor:** Questões técnicas
+• **Contact Center:** Suporte geral
+
+**📱 Canais de Atendimento:**
+• **Presencial:** Todas as lojas
+• **Telefone:** Goiás e Brasília
+• **Chat:** Via sistema
+• **Central do Assinante:** Online
+
+**⚠️ Observações:**
+• UPSOFT operacional
+• Chat e ligação disponíveis
+• Transbordo ativo no telefone
+• Atendimento presencial em todas as cidades
+• Horários diferenciados para cada setor
+
+---
+sette_reset::🔄 *SETTE FIBRA – Reset e Configurações:*
+
+**🔐 Política de Senhas:**
+• **Equipamento comodato:** NÃO fornecer senha
+• **Roteador próprio:** Pode informar PPPoE
+• **Reset:** Pode auxiliar cliente
+• **PPPoE:** Informar independente de comodato
+
+**🔧 Procedimentos de Reset:**
+• **Autorizado:** Sim, auxiliar cliente
+• **Combinação PPPoE:** Passar independente de comodato
+• **Preset padrão:** Senha WiFi 40519377
+• **Sem acesso preset:** Reset para configurações de fábrica
+• **Configuração zero:** Orientar com PPPoE
+
+**🔐 Credenciais de Acesso:**
+
+**🔑 Senhas Convencionais:**
+• **LOGIN:** se77e / se77e
+• **SENHA:** !@#7aces / 77acesso
+• **Alternativas:** 7&Acess@ / !@#7aces
+
+**🏭 Por Fabricante:**
+• **HUAWEI:** telecomadmin / admintelecom
+• **ZTE:** multipro / multipro
+• **FiberHome:** admin / admin
+
+**🌐 Portas de Acesso:**
+• **Porta 80**
+• **Porta 8077**
+• **Testar:** https:// e http://
+
+**🌐 Configurações DNS:**
+• **Padrão:** Não configurar
+• **Casos necessários:** 143.0.252.10 e 143.0.252.20
+
+**📶 Verificações Técnicas:**
+• **Sinal ideal:** Até RX -25dBm
+• **Abaixo ideal:** Encaminhar N2
+
+**💰 Custos de Serviço:**
+• **Troca senha (necessário OS):** Verificar com N2
+• **Visita técnica:** Setor responsável informa taxa
+
+**🛠️ Suporte a Equipamentos:**
+• **Repetidores próprios:** R$ 100,00 (completo)
+• **Repetidores terceiros:** R$ 30,00 (suporte)
+• **Procedimento:** Abrir N2
+
+**📺 IPTV:**
+• **Configurações:** Verificar conexão geral
+• **Orientação:** ANATEL
+• **Persistência:** Abrir N2 + transferir
+
+**⚠️ Observações Importantes:**
+• Se senha não funcionar: confirmar se cliente alterou
+• Sempre tentar senhas convencionais primeiro
+• Reset para preset: usar senha WiFi padrão
+• Casos complexos: encaminhar N2
+• Não informar sobre visita ao abrir N2
+• Informar: "CHAMADO aberto" e "equipe dará retorno"
+
+**🔄 Procedimento Completo:**
+1. Verificar se equipamento é comodato
+2. Tentar senhas convencionais
+3. Se reset: orientar configuração básica
+4. Passar PPPoE se necessário
+5. Casos sem sucesso: abrir N2
+6. Informar prazo de retorno (24h úteis)
+
+// ... existing code ...
+**🌐 Tecnologias Oferecidas:**
+Somente internet fibra e rádio (rural)
+
+**📶 Planos Fibra Óptica:**
+✅ 550 Mega - R$ 109,99
+✅ 650 Mega - R$ 119,99
+✅ 850 Mega - R$ 139,99
+✅ 1 GB - R$ 159,99
+
+💸 **Desconto:** R$ 10,00 para pagamento em dia
+
+**🏢 Planos Corporativos:**
+• 200MB CORPORATIVO - R$ 199,99 (adesão R$ 500,00)
+• 400MB CORPORATIVO - R$ 299,99 (adesão R$ 500,00)
+• 600MB CORPORATIVO - R$ 399,99 (adesão R$ 500,00)
+• 800MB CORPORATIVO - R$ 499,99 (adesão R$ 500,00)
+
+**📋 Modalidades de Contrato:**
+✅ Fidelidade 12 meses (sem taxa instalação)
+✅ Comodato sem fidelidade (taxa R$ 400,00)
+
+**📱 Streaming:**
+Possuem aplicativos de Streaming - encaminhar ao provedor se solicitado
+
+**⚠️ Observações:**
+• No momento sem disponibilidade para novos clientes rádio
+• Suporte 24 horas
+• Prazo para instalação: 2 dias úteis
+
+---
+meganets_cobertura::🌍 *MEGANETS – Cobertura:*
+
+**📍 Localização Principal:**
+Cuiabá - MT
+
+**⏱️ Prazos:**
+• Instalação: 2 dias úteis
+• Suporte: 24 horas
+
+**📱 Serviços Adicionais:**
+• Aplicativos de Streaming disponíveis
+• Encaminhar solicitações ao provedor
+
+**🏢 Endereço de Atendimento:**
+AV. Newton Rabello de Castro Q.69 N°48
+BAIRRO: PEDRA 90 - CUIABÁ
+(ao lado da loja américa JEA)
+
+---
+meganets_equipamentos::🛠️ *MEGANETS – Equipamentos:*
+
+**📋 Equipamentos Utilizados:**
+ONU Sumec, ONU Sumec Acoplada, ONU Think, ONU Think Acoplada, ONU Stavix, ONU Huawei, Roteador Greatek, Roteador Zyxel, Roteador Mercusys, Roteador Keo, Roteador TP Link, ZTE, Antenas e Injetores (rádio)
+
+**🔐 Porta de Acesso:**
+• Geral: 8080
+• ONU Acoplada: Apenas IP
+
+**🔑 Senhas de Acesso:**
+
+| EQUIPAMENTO | USUÁRIO | SENHA |
+|-------------|---------|-------|
+| ONU Sumec | adminisp | adminisp |
+| ONU Think | tkth | tkth ou Private.10 |
+| Huawei | meganets | Privado.10 |
+| Mercusys | - | Meganets |
+| Think WiFi | tkth | tkth |
+| ZTE Multilaser | adminisp | adminisp |
+| Antena (rádio) | meganets | Private.10 |
+| Roteador Keo | meganets | meganets |
+
+**⚠️ ZTE F660 Especial:**
+Caso encontre roteador ZTE F660 com senha multipro/multipro → passar no grupo para equipe Meganets
+
+**🔒 Política de Acesso:**
+• Acesso restrito - não informar senhas ao cliente
+• Troca de senha WiFi: R$ 40,00 (mesmo remotamente)
+• Taxa incluída na próxima fatura
+
+**🔄 Procedimento ZYXEL:**
+Retirar cabo de rede durante reinício, reconectar após 2 minutos
+
+**🌐 DNS Padrão:**
+• Primário: 177.125.30.2
+• Secundário: 177.125.30.3
+
+**📶 Repetidores:**
+• Provedor fornece para venda e faz instalação/configuração
+• Cobra visita e cabeamento em alguns casos
+• Para repetidores do cliente: avalia cada caso
+• Transferir atendimento para horário comercial
+
+---
+meganets_suporte::🔧 *MEGANETS – Suporte:*
+
+**⏰ Horário UPCALL (GMT-4):**
+• Segunda a Sábado: 19h às 09h e 12h às 13h
+• Sábado: 13h até 09h de Segunda
+• **Importante:** Provedor usa fuso horário GMT-4
+
+**🔧 Tipos de Suporte:**
+• **N2:** Problemas técnicos gerais
+• **N3:** Casos que necessitam visita técnica
+• Após abertura: transferir atendimento
+
+**⏱️ Prazos de Atendimento:**
+• **N2:** Geralmente 2 horas úteis
+• **N3:** Máximo 24 horas (visita técnica)
+
+**📶 Nível de Sinal:**
+• **Ideal:** Até RX -21dBm
+• **Abaixo:** Gerar N3
+• **TX e RX:** Máximo -25/-26 (avaliar histórico do cliente)
+• **Dúvidas:** Enviar para N2
+
+**💬 Mensagens Sugestivas:**
+
+**N2:** "Vou te transferir para o setor responsável pelo suporte mais avançado, e eles vão dar continuidade ao seu caso no próximo período útil, só um momento por gentileza."
+
+**N3 Geral:** "Vou te transferir para o setor responsável pelo agendamento, e eles vão dar continuidade ao seu caso no próximo período útil para checar a disponibilidade/necessidade de encaminhar os técnicos, Só um momento, por gentileza."
+
+**N3 LOS/Equipamento Danificado:** "Como em seu caso será necessária uma visita técnica, vou te encaminhar ao setor de agendamento que fará o encaixe no próximo período útil para encaminharmos a equipe até o local. Só um momento, por gentileza."
+
+**🔄 Procedimentos Especiais:**
+• **Reset:** Abrir N3 em dias úteis/horário comercial
+• **Exceções:** Clientes ameaçando cancelamento ou comércios (informar senha com taxa de serviço se causar problemas)
+• **Clientes desconectados:** Gerar N2 se sem contato por ligação
+• **Finais de semana:** Finalizar atendimento, cliente pode iniciar novo
+
+**💰 Taxas:**
+• **Visita improdutiva:** R$ 40,00 (sempre informar)
+• **Troca senha WiFi:** R$ 40,00 (incluso na próxima fatura)
+• **Mudança cabeamento:** R$ 40,00 (visita) + R$ 120,00 (novo cabeamento)
+• **Repetidor Mercusys:** R$ 300,00 + R$ 40,00 (visita)
+
+**📋 Informações Obrigatórias na OS:**
+• Localização no campo referência
+• Não colocar "melhor período" (tem setor específico)
+• Informar que setor responsável entrará em contato
+• Não usar termo "abrir ordem de serviço"
+
+**🏢 Transferências Corretas:**
+• **IP Fixo:** Transferir atendimento (R$ 50,00 mensais)
+• **IPTV:** Não prestam suporte - orientar falar com vendedor
+• **Segundo ponto:** Encaminhar ao Setor Comercial
+• **Cancelamento:** Comercial (horário) / Agendamento (fora horário)
+
+**⚠️ Observações Técnicas:**
+• Utilizam IPV6
+• Não prestam suporte IPTV
+• Não fazem cabeamento para outros equipamentos
+• Setor de agendamento tenta contato antes da visita
+
+---
+meganets_financeiro::💰 *MEGANETS – Financeiro:*
+
+**🚫 Bloqueio:**
+• **Prazo:** Após 15 dias de atraso
+• **Redução de velocidade:** Não possui
+
+**🔓 Desbloqueio de Confiança:**
+• **Condições:** Apenas 1 fatura em atraso
+• **Frequência:** 1 vez por mês
+• **Validade:** 5 dias
+• **Procedimento:** Sempre registrar atendimento e transferir
+• **Com comprovante:** Realizar liberação com 1 fatura em atraso
+
+**💰 Formas de Pagamento:**
+• Central do assinante
+• Segunda via por e-mail
+• Escritório: parcelamento cartão crédito (+4%)
+• PIX (usar chave aleatória do sistema)
+
+**💳 Procedimento PIX:**
+1. Editar boleto e copiar código PIX
+2. Enviar mensagem padrão:
+
+"Passo a passo de como pagar seu boleto via PIX!!
+
+COPIE TODO CÓDIGO ENVIADO.
+
+1° Passo abra seu aplicativo
+2° Passo abra na função PIX
+3° Passo ir na opção PIX COPIA E COLA
+4° Passo inserir o código."
+
+**📄 Comprovante de Pagamento:**
+• Sempre abrir OS de envio de comprovante
+• Anexar comprovante na OS
+
+**📧 Envio de Fatura:**
+• Disponível mediante solicitação
+• Transferir se não conseguir resolver
+
+**💸 Valores Adicionais:**
+• **Desconto pagamento em dia:** R$ 10,00
+• **Taxa instalação (comodato):** R$ 400,00
+• **Adesão corporativo:** R$ 500,00
+• **IP Fixo:** +R$ 50,00 mensais
+
+**⚠️ Observação:**
+Desativando chave CNPJ em breve - usar chave aleatória do sistema
+
+---
+meganets_atendimento::📞 *MEGANETS – Contatos:*
+
+**📞 Atendimento Principal:**
+• Telefone: (65) 3044-2005
+• WhatsApp: (65) 99227-1726
+
+**🌐 Sistemas:**
+• IXC: https://ixcsoft.meganets.com.br/login.php
+• Central do Assinante: https://ixcsoft.meganets.com.br/central_assinante_web/login
+• Sistema: UPSOFT
+
+**📱 Redes Sociais:**
+• Instagram: https://www.instagram.com/meganetsbandalarga/
+• Facebook: https://pt-br.facebook.com/meganetsbandalarga/
+
+**📍 Endereço Completo:**
+AV. Newton Rabello de Castro Q.69 N°48
+BAIRRO: PEDRA 90 - CUIABÁ - MT
+(ao lado da loja américa JEA)
+
+**⏰ Horários de Atendimento:**
+
+**🏪 ESCRITÓRIO:**
+• Segunda a Sexta: 08h às 12h e 13h às 18h
+• Sábado: 08h às 12h
+
+**📞 UPCALL (GMT-4):**
+• Segunda a Sábado: 19h às 09h e 12h às 13h
+• Sábado: 13h até 09h de Segunda
+
+**💬 Canais de Atendimento:**
+• Chat e Ligação
+• Suporte 24 horas
+
+**🏢 Setores:**
+• IXC (sistema)
+• OPA (operacional)
+• Comercial
+• Agendamento
+• N2/N3 (suporte técnico)
+
+**⚠️ Observações:**
+• Fuso horário GMT-4 (diferente do Brasil GMT-3)
+• Transferir atendimento após abertura de N2/N3
+• Informar horário de atendimento nos finais de semana
+• Reforçar que procedimentos já foram feitos
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+
+**📋 Informações Técnicas:**
+• Porta de acesso: 8080
+• DNS: 177.125.30.2 / 177.125.30.3
+• Sinal ideal: até RX -21dBm
+
+**💰 Custos Relacionados:**
+• Troca senha WiFi: R$ 40,00
+• Visita técnica: R$ 40,00
+• Taxa de serviço: Se causar problemas no equipamento
+
+**📞 Procedimento:**
+1. Avaliar urgência do caso
+2. Verificar se é horário comercial
+3. Se exceção: informar senha + orientações
+4. Se padrão: abrir N3 e transferir
+5. Sempre registrar atendimento
+
+**⚠️ Equipamento ZTE F660:**
+Se encontrar com senha multipro/multipro → passar no grupo para equipe Meganets
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+
+**📋 Informações Técnicas:**
+• Porta de acesso: 8080
+• DNS: 177.125.30.2 / 177.125.30.3
+• Sinal ideal: até RX -21dBm
+
+**💰 Custos Relacionados:**
+• Troca senha WiFi: R$ 40,00
+• Visita técnica: R$ 40,00
+• Taxa de serviço: Se causar problemas no equipamento
+
+**📞 Procedimento:**
+1. Avaliar urgência do caso
+2. Verificar se é horário comercial
+3. Se exceção: informar senha + orientações
+4. Se padrão: abrir N3 e transferir
+5. Sempre registrar atendimento
+
+**⚠️ Equipamento ZTE F660:**
+Se encontrar com senha multipro/multipro → passar no grupo para equipe Meganets
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+
+**📋 Informações Técnicas:**
+• Porta de acesso: 8080
+• DNS: 177.125.30.2 / 177.125.30.3
+• Sinal ideal: até RX -21dBm
+
+**💰 Custos Relacionados:**
+• Troca senha WiFi: R$ 40,00
+• Visita técnica: R$ 40,00
+• Taxa de serviço: Se causar problemas no equipamento
+
+**📞 Procedimento:**
+1. Avaliar urgência do caso
+2. Verificar se é horário comercial
+3. Se exceção: informar senha + orientações
+4. Se padrão: abrir N3 e transferir
+5. Sempre registrar atendimento
+
+**⚠️ Equipamento ZTE F660:**
+Se encontrar com senha multipro/multipro → passar no grupo para equipe Meganets
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+
+**📋 Informações Técnicas:**
+• Porta de acesso: 8080
+• DNS: 177.125.30.2 / 177.125.30.3
+• Sinal ideal: até RX -21dBm
+
+**💰 Custos Relacionados:**
+• Troca senha WiFi: R$ 40,00
+• Visita técnica: R$ 40,00
+• Taxa de serviço: Se causar problemas no equipamento
+
+**📞 Procedimento:**
+1. Avaliar urgência do caso
+2. Verificar se é horário comercial
+3. Se exceção: informar senha + orientações
+4. Se padrão: abrir N3 e transferir
+5. Sempre registrar atendimento
+
+**⚠️ Equipamento ZTE F660:**
+Se encontrar com senha multipro/multipro → passar no grupo para equipe Meganets
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+
+**📋 Informações Técnicas:**
+• Porta de acesso: 8080
+• DNS: 177.125.30.2 / 177.125.30.3
+• Sinal ideal: até RX -21dBm
+
+**💰 Custos Relacionados:**
+• Troca senha WiFi: R$ 40,00
+• Visita técnica: R$ 40,00
+• Taxa de serviço: Se causar problemas no equipamento
+
+**📞 Procedimento:**
+1. Avaliar urgência do caso
+2. Verificar se é horário comercial
+3. Se exceção: informar senha + orientações
+4. Se padrão: abrir N3 e transferir
+5. Sempre registrar atendimento
+
+**⚠️ Equipamento ZTE F660:**
+Se encontrar com senha multipro/multipro → passar no grupo para equipe Meganets
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+
+**📋 Informações Técnicas:**
+• Porta de acesso: 8080
+• DNS: 177.125.30.2 / 177.125.30.3
+• Sinal ideal: até RX -21dBm
+
+**💰 Custos Relacionados:**
+• Troca senha WiFi: R$ 40,00
+• Visita técnica: R$ 40,00
+• Taxa de serviço: Se causar problemas no equipamento
+
+**📞 Procedimento:**
+1. Avaliar urgência do caso
+2. Verificar se é horário comercial
+3. Se exceção: informar senha + orientações
+4. Se padrão: abrir N3 e transferir
+5. Sempre registrar atendimento
+
+**⚠️ Equipamento ZTE F660:**
+Se encontrar com senha multipro/multipro → passar no grupo para equipe Meganets
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+
+**📋 Informações Técnicas:**
+• Porta de acesso: 8080
+• DNS: 177.125.30.2 / 177.125.30.3
+• Sinal ideal: até RX -21dBm
+
+**💰 Custos Relacionados:**
+• Troca senha WiFi: R$ 40,00
+• Visita técnica: R$ 40,00
+• Taxa de serviço: Se causar problemas no equipamento
+
+**📞 Procedimento:**
+1. Avaliar urgência do caso
+2. Verificar se é horário comercial
+3. Se exceção: informar senha + orientações
+4. Se padrão: abrir N3 e transferir
+5. Sempre registrar atendimento
+
+**⚠️ Equipamento ZTE F660:**
+Se encontrar com senha multipro/multipro → passar no grupo para equipe Meganets
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+
+**📋 Informações Técnicas:**
+• Porta de acesso: 8080
+• DNS: 177.125.30.2 / 177.125.30.3
+• Sinal ideal: até RX -21dBm
+
+**💰 Custos Relacionados:**
+• Troca senha WiFi: R$ 40,00
+• Visita técnica: R$ 40,00
+• Taxa de serviço: Se causar problemas no equipamento
+
+**📞 Procedimento:**
+1. Avaliar urgência do caso
+2. Verificar se é horário comercial
+3. Se exceção: informar senha + orientações
+4. Se padrão: abrir N3 e transferir
+5. Sempre registrar atendimento
+
+**⚠️ Equipamento ZTE F660:**
+Se encontrar com senha multipro/multipro → passar no grupo para equipe Meganets
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+
+**📋 Informações Técnicas:**
+• Porta de acesso: 8080
+• DNS: 177.125.30.2 / 177.125.30.3
+• Sinal ideal: até RX -21dBm
+
+**💰 Custos Relacionados:**
+• Troca senha WiFi: R$ 40,00
+• Visita técnica: R$ 40,00
+• Taxa de serviço: Se causar problemas no equipamento
+
+**📞 Procedimento:**
+1. Avaliar urgência do caso
+2. Verificar se é horário comercial
+3. Se exceção: informar senha + orientações
+4. Se padrão: abrir N3 e transferir
+5. Sempre registrar atendimento
+
+**⚠️ Equipamento ZTE F660:**
+Se encontrar com senha multipro/multipro → passar no grupo para equipe Meganets
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+
+**📋 Informações Técnicas:**
+• Porta de acesso: 8080
+• DNS: 177.125.30.2 / 177.125.30.3
+• Sinal ideal: até RX -21dBm
+
+**💰 Custos Relacionados:**
+• Troca senha WiFi: R$ 40,00
+• Visita técnica: R$ 40,00
+• Taxa de serviço: Se causar problemas no equipamento
+
+**📞 Procedimento:**
+1. Avaliar urgência do caso
+2. Verificar se é horário comercial
+3. Se exceção: informar senha + orientações
+4. Se padrão: abrir N3 e transferir
+5. Sempre registrar atendimento
+
+**⚠️ Equipamento ZTE F660:**
+Se encontrar com senha multipro/multipro → passar no grupo para equipe Meganets
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+
+**📋 Informações Técnicas:**
+• Porta de acesso: 8080
+• DNS: 177.125.30.2 / 177.125.30.3
+• Sinal ideal: até RX -21dBm
+
+**💰 Custos Relacionados:**
+• Troca senha WiFi: R$ 40,00
+• Visita técnica: R$ 40,00
+• Taxa de serviço: Se causar problemas no equipamento
+
+**📞 Procedimento:**
+1. Avaliar urgência do caso
+2. Verificar se é horário comercial
+3. Se exceção: informar senha + orientações
+4. Se padrão: abrir N3 e transferir
+5. Sempre registrar atendimento
+
+**⚠️ Equipamento ZTE F660:**
+Se encontrar com senha multipro/multipro → passar no grupo para equipe Meganets
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+
+**📋 Informações Técnicas:**
+• Porta de acesso: 8080
+• DNS: 177.125.30.2 / 177.125.30.3
+• Sinal ideal: até RX -21dBm
+
+**💰 Custos Relacionados:**
+• Troca senha WiFi: R$ 40,00
+• Visita técnica: R$ 40,00
+• Taxa de serviço: Se causar problemas no equipamento
+
+**📞 Procedimento:**
+1. Avaliar urgência do caso
+2. Verificar se é horário comercial
+3. Se exceção: informar senha + orientações
+4. Se padrão: abrir N3 e transferir
+5. Sempre registrar atendimento
+
+**⚠️ Equipamento ZTE F660:**
+Se encontrar com senha multipro/multipro → passar no grupo para equipe Meganets
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+
+**📋 Informações Técnicas:**
+• Porta de acesso: 8080
+• DNS: 177.125.30.2 / 177.125.30.3
+• Sinal ideal: até RX -21dBm
+
+**💰 Custos Relacionados:**
+• Troca senha WiFi: R$ 40,00
+• Visita técnica: R$ 40,00
+• Taxa de serviço: Se causar problemas no equipamento
+
+**📞 Procedimento:**
+1. Avaliar urgência do caso
+2. Verificar se é horário comercial
+3. Se exceção: informar senha + orientações
+4. Se padrão: abrir N3 e transferir
+5. Sempre registrar atendimento
+
+**⚠️ Equipamento ZTE F660:**
+Se encontrar com senha multipro/multipro → passar no grupo para equipe Meganets
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+
+**📋 Informações Técnicas:**
+• Porta de acesso: 8080
+• DNS: 177.125.30.2 / 177.125.30.3
+• Sinal ideal: até RX -21dBm
+
+**💰 Custos Relacionados:**
+• Troca senha WiFi: R$ 40,00
+• Visita técnica: R$ 40,00
+• Taxa de serviço: Se causar problemas no equipamento
+
+**📞 Procedimento:**
+1. Avaliar urgência do caso
+2. Verificar se é horário comercial
+3. Se exceção: informar senha + orientações
+4. Se padrão: abrir N3 e transferir
+5. Sempre registrar atendimento
+
+**⚠️ Equipamento ZTE F660:**
+Se encontrar com senha multipro/multipro → passar no grupo para equipe Meganets
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+
+**📋 Informações Técnicas:**
+• Porta de acesso: 8080
+• DNS: 177.125.30.2 / 177.125.30.3
+• Sinal ideal: até RX -21dBm
+
+**💰 Custos Relacionados:**
+• Troca senha WiFi: R$ 40,00
+• Visita técnica: R$ 40,00
+• Taxa de serviço: Se causar problemas no equipamento
+
+**📞 Procedimento:**
+1. Avaliar urgência do caso
+2. Verificar se é horário comercial
+3. Se exceção: informar senha + orientações
+4. Se padrão: abrir N3 e transferir
+5. Sempre registrar atendimento
+
+**⚠️ Equipamento ZTE F660:**
+Se encontrar com senha multipro/multipro → passar no grupo para equipe Meganets
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+
+**📋 Informações Técnicas:**
+• Porta de acesso: 8080
+• DNS: 177.125.30.2 / 177.125.30.3
+• Sinal ideal: até RX -21dBm
+
+**💰 Custos Relacionados:**
+• Troca senha WiFi: R$ 40,00
+• Visita técnica: R$ 40,00
+• Taxa de serviço: Se causar problemas no equipamento
+
+**📞 Procedimento:**
+1. Avaliar urgência do caso
+2. Verificar se é horário comercial
+3. Se exceção: informar senha + orientações
+4. Se padrão: abrir N3 e transferir
+5. Sempre registrar atendimento
+
+**⚠️ Equipamento ZTE F660:**
+Se encontrar com senha multipro/multipro → passar no grupo para equipe Meganets
+
+---
+meganets_reset::🔄 *MEGANETS – Reset de Equipamento:*
+
+**🔧 Procedimento Padrão:**
+• **Horário:** Abrir N3 em dias úteis/horário comercial
+• **Fora do horário:** Não instruir cliente
+• **Acesso:** Restrito - não informar senhas
+
+**⚠️ Exceções (casos especiais):**
+• Clientes ameaçando cancelamento
+• Comércios solicitando prioridade
+• **Ação:** Pode informar senha de acesso
+• **Condição:** Orientar sobre taxa de serviço se causar problemas
+• **Taxa:** Aplicada se retornar às configurações de fábrica
+
+**🔄 Procedimento ZYXEL Específico:**
+• Retirar cabo de rede durante reinício
+• Aguardar 2 minutos
+• Reconectar cabo de rede
+---
+// ... existing code ...
+
+---
+mutum_planos::📶 *MUTUM FIBRA – Planos:*
+
+**🌐 Tecnologias Oferecidas:**
+• **Fibra Óptica:** Maior parte da área de cobertura (área urbana)
+• **Rádio:** Algumas regiões (áreas rurais, fazendas)
+
+**📱 Aplicativos Inclusos:**
+• **Mutum Fibra WiFi:** App para gerenciamento da rede
+• **Olé TV:** Acesso a +60 canais gratuitos + canais locais
+
+**🔗 Serviços Adicionais:**
+• **IP Fixo:** R$ 100,00 adicional (alguns planos já incluem)
+• **Ponto Extra/Mesh:** Disponível para planos específicos
+• **IPTV:** Olé TV incluído (IPTV pirata sem suporte garantido)
+
+**⚠️ Observações:**
+• Alguns planos possuem benefício de ponto extra
+• Verificar direitos com comercial
+• Suporte limitado para IPTV não oficial
+
+---
+mutum_cobertura::🌍 *MUTUM FIBRA – Cobertura:*
+
+**🏙️ Cidades Atendidas:**
+
+**📍 Nova Mutum:**
+• **Tecnologia:** Fibra óptica (área urbana completa)
+• **Cobertura:** Todos os bairros
+
+**📍 Santa Rita do Trivelato:**
+• **Tecnologia:** Fibra óptica (área urbana completa)
+• **Cobertura:** Todos os bairros
+
+**🏘️ Vilas e Comunidades:**
+• Comunidade São Manoel
+• Comunidade Ranchão
+• Comunidade Pacoval
+
+**📡 Áreas Rurais:**
+• **Tecnologia:** Rádio
+• **Locais:** Fazendas e propriedades rurais
+
+**🏢 Endereço da Matriz:**
+• **Cidade:** Nova Mutum
+• **Bairro:** Centro
+• **Endereço:** Av. dos Canários, 487
+
+---
+mutum_equipamentos::🛠️ *MUTUM FIBRA – Equipamentos:*
+
+**🔧 Sistemas de Gerenciamento:**
+
+**ANLIX:**
+• **URL:** https://anlix.mutumfibra.com.br/
+• **Login:** upcall
+• **Senha:** !Mutum2025@
+
+**FLASHMAN:**
+• **URL:** https://acs.mutumfibra.com.br/
+• **Login:** upcall@upcall.com.br
+• **Senha:** @MFibra$0125
+
+**🔍 Localização de Clientes (Flashman):**
+• CPF do cliente
+• Usuário PPPoE
+• IP do cliente
+• Modelo do roteador
+• Nome do Wi-Fi (casos via rádio)
+• **Melhores formas:** usuário PPPoE, final do MAC (últimos 4 dígitos), nome Wi-Fi
+
+**🔐 Acesso aos Equipamentos:**
+• **ONU:** Porta 8010
+• **Login:** admin
+• **Senha:** admin
+
+**📶 Teste de Velocidade:**
+• **Suporte:** Plataforma Anlix
+• **Cliente:** App Mutum Fibra Wi-Fi
+• **Alternativo:** speedtest.net
+
+**🌐 DNS Padrão:**
+• **Primário:** 143.202.80.56
+• **Secundário:** 143.202.80.57
+
+**📡 Rede Mesh:**
+• Disponível para planos específicos
+• Instalação em comodato
+• Custo adicional se plano não incluir
+
+**⚠️ Suporte Limitado:**
+• **Câmeras:** Apenas dados Wi-Fi para técnicos
+• **Repetidores:** Somente Mesh do provedor
+• **IPTV pirata:** Suporte limitado
+
+---
+mutum_suporte::🔧 *MUTUM FIBRA – Suporte Técnico:*
+
+**⏰ Horários UPCALL (GMT-3):**
+• **Provedor:** Fuso GMT-4
+• **Segunda a Sexta:** 19h30 às 09h30
+• **Almoço:** 13h30 às 15h30
+• **Sábado:** Após 12h até Segunda 09h30
+• **Sistemas:** UPSOFT, Chat e Ligação
+
+**🔧 Níveis de Suporte:**
+
+**📞 Call Center:**
+• Primeiro atendimento
+• Procedimentos básicos
+
+**🔍 N1 Interno:**
+• Análise do provedor
+• Triagem de casos
+• Contato com cliente
+
+**⚙️ N2:**
+• Análise avançada de rede
+• Casos técnicos complexos
+
+**🚗 N3:**
+• Visita técnica
+• Casos de campo
+
+**📶 Níveis de Sinal:**
+• **RX:** -15 a -22dB (sinal recebido na ONU)
+• **TX:** 2 a 3dB (da ONU para OLT)
+
+**⏱️ Prazos de Atendimento:**
+• **Geral:** "O quanto antes será resolvido"
+• **Casos críticos:** 24 horas úteis de contato
+• **Sem conexão:** Prioridade
+
+**🛠️ Plantão Técnico:**
+• **Fins de semana:** Não
+• **Sábado:** 07h30 às 11h30
+
+**💰 Visita Técnica:**
+• **Improdutiva cidade:** R$ 40,00
+• **Rural:** Deslocamento + mão de obra
+• **Troca senha sem acesso:** Cobrado (informar taxa na OS)
+
+**📋 Procedimentos:**
+• Sempre colocar em contratos na abertura
+• Informar que suporte técnico entrará em contato
+• Pegar números atualizados
+• Roteador piscando = sem conexão (analisar normalmente)
+
+**🔄 Mudança de Endereço:**
+• **Gratuito:** Clientes com fidelidade vigente e adimplentes
+• **Limite:** 1 mudança gratuita a cada 6 meses
+
+**🆕 Novos Pontos/Mudanças:**
+• Enviar para atendimento/comercial
+• Assinatura de termo de adesão
+• Informar valores antes da OS
+
+---
+mutum_financeiro::💰 *MUTUM FIBRA – Financeiro:*
+
+**📄 Envio de Fatura:**
+• **Disponível:** Sim
+• **Procedimento:** Solicitar via atendimento
+
+**🔓 Desbloqueio de Confiança:**
+• **Frequência:** 1 vez a cada 30 dias
+• **Condição:** Sem desbloqueio anterior no período
+• **Canais:** Central do assinante, WhatsApp (menu financeiro)
+
+**🚫 Bloqueio:**
+• **Prazo:** 10 dias após vencimento
+• **Redução de velocidade:** Não possui
+
+**💳 Métodos de Pagamento:**
+• **Boleto:** Fatura tradicional
+• **PIX:** QR Code via central do assinante ou WhatsApp
+• **Débito em conta:** Banco Sicredi (conta do cliente)
+• **Cartão de crédito:** Cobrança recorrente (cliente cadastra na central)
+
+**📱 Central do Assinante:**
+• **URL:** https://ixc.mutumfibra.com.br/central_assinante_web/login
+• **Login:** CPF completo (sem traços e pontos)
+• **Senha:** 4 primeiros números do CPF
+• **Erro:** Conferir login e redigitar senha
+
+**📋 Comprovante de Pagamento:**
+• Realizar desbloqueio de confiança
+• Transferir ao financeiro para revisão
+• Orientar sobre horário de atendimento
+
+**📄 Nota Fiscal:**
+• Transferir ao financeiro via chat
+• Orientar retirada pelo bot ou site
+
+**❌ Cancelamento:**
+• Perguntar motivo
+• Tentar reter cliente
+• Se suporte: dar prioridade, sinalizar urgência Alta
+• Registrar processo na OS
+• Comercial fará contato
+
+---
+mutum_atendimento::📞 *MUTUM FIBRA – Contatos:*
+
+**📞 Contatos Principais:**
+• **Telefone:** (65) 3308-1020
+• **0800:** 0800 308 1020
+• **WhatsApp:** https://api.whatsapp.com/send/?phone=558003081020&text&type=phone_number&app_absent=0
+
+**🌐 Sistemas:**
+• **IXC:** https://ixc.mutumfibra.com.br/adm.php
+• **Central do Assinante:** https://ixc.mutumfibra.com.br/central_assinante_web/login
+• **Site:** www.mutumfibra.com.br
+
+**⏰ Horários de Atendimento:**
+
+**🏢 ESCRITÓRIO:**
+• **Segunda a Sexta:** 07h30 às 11h30 e 13h30 às 17h30
+• **Sábado:** 07h30 às 11h30
+
+**📞 UPCALL (GMT-4):**
+• **Segunda a Sexta:** 19h30 às 09h30
+• **Almoço:** 13h30 às 15h30
+• **Sábado:** Após 12h até Segunda 09h30
+
+**📍 Endereço Completo:**
+• **Matriz:** Nova Mutum - Centro
+• **Rua:** Av. dos Canários, 487
+
+**🔧 Setores Disponíveis:**
+• IXC (sistema)
+• Atendimento/Comercial
+• Suporte Técnico (N1/N2/N3)
+• Financeiro
+
+**⚠️ Observações:**
+• Provedor utiliza fuso GMT-4
+• UPSOFT operacional
+• Chat e ligação disponíveis
+• Transferir atendimento após procedimentos
+
+---
+mutum_reset::🔄 *MUTUM FIBRA – Reset e Configurações:*
+
+**🔐 Acesso aos Equipamentos:**
+• **ONU:** Porta 8010
+• **Login:** admin
+• **Senha:** admin
+
+**📱 Senha do Roteador:**
+• **Disponível:** Se cadastrado no Flashman
+• **Acesso:** App Mutum Fibra WiFi
+• **Cobrança:** Se necessário abrir OS sem acesso Flashman
+
+**🔧 Procedimentos de Reset:**
+• Verificar acesso via Flashman primeiro
+• Se sem acesso: abrir OS (cobrado)
+• Informar taxa ao cliente
+• Descrever procedimento na OS
+
+**📶 Teste de Velocidade:**
+• **Recomendado:** App Mutum Fibra Wi-Fi
+• **Suporte:** Plataforma Anlix
+• **Alternativo:** speedtest.net
+
+**🌐 Configurações de Rede:**
+• **DNS Primário:** 143.202.80.56
+• **DNS Secundário:** 143.202.80.57
+• **IPV6:** Disponível
+
+**🔍 Localização no Sistema:**
+• **Flashman:** CPF, PPPoE, IP, modelo, nome Wi-Fi
+• **Melhores métodos:** usuário PPPoE, final MAC, nome Wi-Fi
+
+**💰 Custos de Serviço:**
+• **Troca senha (sem acesso):** Valor a ser informado
+• **Visita técnica cidade:** R$ 40,00
+• **Visita rural:** Deslocamento + mão de obra
+
+**⚠️ Observações Importantes:**
+• Sempre verificar Flashman antes de cobrar
+• Informar taxa antes de abrir OS
+• Descrever procedimento completo
+• Orientar uso do app oficial
+
+// ... existing code ...
+
+---
+dkiros_planos::📶 *D-KIROS – Planos:*
+
+**🏠 Planos Residenciais:**
+
+**R1 - Casa até 70m²:**
+• **Velocidade:** Contrate 250 MEGA → Leve 500 MEGA (Download e Upload)
+• **Equipamentos:** Wi-Fi Gigabit - 1 Roteador
+• **Incluso:** Suporte Home Premium, Dkiros TV, Life Line 64 canais, Clube Dkiros, Cupons de desconto, Chat Orientação de saúde
+
+**R1+ - Casa até 70m²:**
+• **Velocidade:** Contrate 400 MEGA → Leve 800 MEGA (Download e Upload)
+• **Equipamentos:** Wi-Fi Gigabit - 1 Roteador
+• **Incluso:** Suporte Home Premium, Dkiros TV, Life Line 64 canais, Clube Dkiros, Cupons de desconto, Chat Orientação de saúde
+
+**R2 - Casa até 140m²:**
+• **Velocidade:** Contrate 250 MEGA → Leve 500 MEGA (Download e Upload)
+• **Equipamentos:** Wi-Fi Gigabit - 2 Roteadores
+• **Incluso:** Suporte Home Premium, Dkiros TV, Life Line 64 canais, Clube Dkiros + Cashback, Cupons de desconto com cashback, Chat Orientação de saúde
+
+**R2+ - Casa até 140m²:**
+• **Velocidade:** Contrate 400 MEGA → Leve 800 MEGA (Download e Upload)
+• **Equipamentos:** Wi-Fi Gigabit - 2 Roteadores
+• **Incluso:** Suporte Home Premium, Dkiros TV, Life Line 64 canais, Clube Dkiros + Cashback, Cupons de desconto com cashback, Chat Orientação de saúde
+
+**R3 - Casa até 210m²:**
+• **Velocidade:** Contrate 250 MEGA → Leve 500 MEGA (Download e Upload)
+• **Equipamentos:** Wi-Fi Gigabit - 3 Roteadores
+• **Incluso:** Suporte Home Premium Black, Dkiros TV, Life Line 64 canais, Clube Dkiros + Cashback, Cupons de desconto com cashback, Chat Orientação de saúde + Telemedicina
+
+**R3+ - Casa até 210m²:**
+• **Velocidade:** Contrate 400 MEGA → Leve 800 MEGA (Download e Upload)
+• **Equipamentos:** Wi-Fi Gigabit - 3 Roteadores
+• **Incluso:** Suporte Home Premium Black, Dkiros TV, Life Line 64 canais, Clube Dkiros + Cashback, Cupons de desconto com cashback, Chat Orientação de saúde + Telemedicina
+
+**📱 Aplicativos e Serviços Inclusos:**
+
+**📺 OléTV/DkirosTV:**
+• **Android:** https://play.google.com/store/apps/details?id=br.tv.ole.oletv
+• **iOS:** App "DKIROSTV"
+• **Login:** E-mail cadastrado no IXC
+• **Senha:** Gerada por e-mail (solicitar reenvio via N2)
+• **Observação:** 4 primeiros canais (Globo, SBT, Record, Band) não funcionam no celular
+• **SetupBox:** Disponível para TVs não compatíveis (fabricadas antes de 2019)
+
+**🏥 LIG Doctor:**
+• App de Telemedicina
+• Informações: solicitar N2
+
+**🎯 Clube DKiros:**
+• Clube de Descontos
+• **App:** Clube DKiros (iOS/Android)
+• **Autenticação:** CPF + "Esqueci a Senha"
+
+**📱 Tua Operadora:**
+• Chip de Celular
+• **Suporte:** +55 800 042 0041
+• **Contratação:** Transferir horário comercial / ENCAMINHAR OUTRAS DEMANDAS fora do horário
+
+---
+dkiros_cobertura::🌍 *D-KIROS – Cobertura:*
+
+**📍 Cidades Atendidas:**
+
+**🏙️ Gaspar - SC:**
+• **Cobertura:** Completa
+• **Tecnologia:** Fibra óptica
+
+**🏘️ Ilhota - SC:**
+• **Cobertura:** Disponível
+• **Tecnologia:** Fibra óptica
+
+**🏢 Endereço da Matriz:**
+• **Cidade:** Gaspar - SC
+• **Bairro:** Gaspar Mirim
+• **Endereço:** R. João Ferretti, 155 - Sala 01
+
+**⚠️ Observações Importantes:**
+• Alguns clientes estão em 2 bases diferentes (nunca informar ao cliente)
+• Verificar ambas as bases em caso de contrato desativado
+• Condomínios utilizam autenticação PPPoE
+• Suporte IPV6 disponível
+
+---
+dkiros_equipamentos::🛠️ *D-KIROS – Equipamentos:*
+
+**🔧 Equipamentos Utilizados:**
+
+**📡 Roteadores:**
+• TP-Link, Intelbras, ZTE
+• **Rádio:** Mikrotik, Ubiquiti, Cambium
+
+**📶 ONU/ONT:**
+• Parks, Stavix, Vsolucion, MaxPrint, Intelbras, ZTE
+
+**🌐 Configurações Mesh:**
+• **Intelbras:** Roteadores W5 1200 + ONU 121
+• **ZTE:** Roteadores ZTE 199a + ONT ZTE F670L
+
+**🔐 Portas de Acesso:**
+• **Primeiro roteador:** 8001
+• **Segundo roteador:** 8002
+• **Ubiquiti/Cambium:** 4779
+• **Mikrotik:** 4779 ou 4791
+• **ONU/ONT:** 4779 ou 80
+
+**👤 Credenciais por Cidade:**
+
+**🏙️ GASPAR:**
+• **Mikrotik:** dsnt/admin - Senha: 96073233
+• **Ubiquiti:** dsnt/ubnt - Senha: 96073233
+• **Cambium:** admin - Senha: 96073233
+
+**🏘️ ILHOTA:**
+• **Mikrotik:** dsnt/admin - Senha: golgt18s
+• **Ubiquiti:** ubnt/dsnt - Senha: golgt18s
+• **Cambium:** admin - Senha: golgt18s
+
+**🔑 Senhas ONT:**
+• admin - Dk96073233
+• adminisp - adminisp
+• admin - 96073233
+• root - Dk96073233
+
+**🔧 Roteadores Padrão:**
+• **Usuário:** admin/dkiros/dsnt (mais comum: "dkiros")
+• **Senha:** admin/internet/96073233/Dk96073233 (mais comum: "internet")
+• **ZTE:** multipro - Dk96073233
+
+**📡 Configurações Wi-Fi:**
+• **2.4GHz:** Canais 1, 6 ou 11 - Largura: Automático
+• **5GHz:** Canal e banda automáticos
+• **Acesso remoto:** Porta 8001 para IP 131.100.52.253
+
+**🔒 Procedimentos de Segurança ONU:**
+
+**Parks 101/D401:** Network > LAN Address Setting > DHCP Server > "Assign IspDNS"
+**Parks 410/411:** Network > LAN Address Setting > DHCP Server > "Assign IspDNS"
+**ZTE 670L v9:** Rede Local > LAN > IPv4 > Habilitar DNS ISP
+**ZTE 670L v1:** Rede > LAN > Servidor DHCP > "Atribuir IspDNS" > Enviar
+
+---
+dkiros_suporte::🔧 *D-KIROS – Suporte Técnico:*
+
+**⏰ Horários UPCALL (GMT-3):**
+• **Segunda a Sexta:** 18h às 08h
+• **Sábado:** 12h às 08h de Segunda
+• **Transbordo:** +20min CRT e Sucesso do Cliente
+• **Treinamento:** Última quarta do mês até 10h30 (loja fechada)
+• **Não transferir:** Após 08h (troca de turno)
+
+**📶 Teste de Velocidade:**
+• **Site oficial:** http://dkiros.speedtestcustom.com/
+
+**🌐 DNS:**
+• **Configuração:** Sempre automático (fornecido pelo ISP)
+• **DNS atual:** 170.245.99.22 e 170.245.99.23
+
+**📶 Nível de Sinal:**
+• **Ideal:** Até -26dBm
+• **Abaixo:** Gerar N3
+
+**🔧 Níveis de Suporte:**
+
+**📞 N2:** Análise avançada
+**🚗 N3:** Visita técnica
+
+**⏱️ Prazos de Atendimento:**
+• **Pessoa Física:** 72 horas úteis
+• **Corporativo:** 24 horas úteis
+• **Crítico:** Verificar encaixe via grupo
+
+**🛠️ Plantão Técnico:**
+
+| Nível | Segunda-Sexta | Sábados/Feriados |
+|-------|---------------|------------------|
+| N2    | 08h às 21h    | 08h às 16h       |
+| N3    | 08h às 18h    | 08h às 12h       |
+
+• **Domingos:** Sem plantão
+
+**💰 Custos de Visita:**
+• **Improdutiva:** R$ 40,00 + materiais
+• **Cabeamento:** R$ 8,00/metro + R$ 5,00 ponteira/conector
+• **Repetidor:** R$ 40,00 (configuração)
+
+**📋 Tipos de OS:**
+
+**🔍 FALTA DE INTERAÇÃO:** SUPORTE NÍVEL 2
+**🔧 MASSIVA - MANUTENÇÃO:** Preventiva/corretiva/rede
+**⚠️ MASSIVA - FALHA:** Rompimentos
+**❌ CANCELAMENTO:** ENCAMINHAR OUTRAS DEMANDAS
+**📞 SEM CONEXÃO:** SUPORTE NÍVEL 3 (horário comercial)
+**☎️ TELEFONIA:** SUPORTE NÍVEL 2 ou OUTRAS DEMANDAS
+
+**⏰ Horários de Transferência:**
+• **Suporte:** Segunda-Sexta 08h-18h, Sábado 08h-12h
+• **Comercial/Financeiro:** Segunda-Sexta 08h-18h, Sábado 08h-12h
+• **Fora do horário:** Não transferir
+
+**🔄 Reset e Configuração:**
+• **Senha roteador:** Não informar ao cliente
+• **Reset:** Auxiliar se roteador resetado
+• **ONT desconfigurada:** Encaminhar N3
+• **Repetidores:** Suporte para Mesh do provedor
+• **IPTV pirata:** Sem suporte garantido, tentar ajudar
+
+---
+dkiros_financeiro::💰 *D-KIROS – Financeiro:*
+
+**🔓 Desbloqueio de Confiança:**
+• **Disponível:** Não via UPCALL
+• **Orientação:** Chat com opções automáticas ou Central do Assinante
+• **Carteiras especiais:** 5, 9, 15 - ENCAMINHAR OUTRAS DEMANDAS
+
+**🚫 Bloqueio:**
+• **Prazo:** 8 dias após vencimento
+• **Rotina:** Não bloqueia fins de semana, sextas ou segundas
+• **Dias de bloqueio:** Terça a quinta-feira
+• **⚠️ NÃO INFORMAR:** Os 8 dias ao cliente
+
+**📄 Envio de Fatura:**
+
+**❌ NÃO ENVIAR (orientar Central do Assinante):**
+• **Viacredi:** Carteira 5 (Base 1) / Carteira 2 (Base 2)
+• **Sicoob:** Carteira 15 (Base 1) / Carteira 7 (Base 2)
+
+**🏪 ENCAMINHAR OUTRAS DEMANDAS:**
+• **Carteira 9:** Pagamento direto na loja
+
+**✅ DEMAIS CARTEIRAS:** Enviar normalmente
+
+**💳 Métodos de Pagamento:**
+• **PIX ou Boleto:** Conforme carteira do cliente
+• **Troca de método:** ENCAMINHAR OUTRAS DEMANDAS
+
+**📋 Comprovante de Pagamento:**
+• **Carteiras 5, 9, 15:** ENCAMINHAR OUTRAS DEMANDAS
+• **Demais carteiras:** Registrar N1 + anexar comprovante
+• **Renegociação:** Anexar na OS existente + N1
+
+**🔄 Redução de Velocidade:**
+• **Disponível:** Não
+
+**🏠 Mudanças e Novos Pontos:**
+• **Mudança de ponto:** ENCAMINHAR OUTRAS DEMANDAS
+• **Novo ponto:** ENCAMINHAR OUTRAS DEMANDAS
+• **Mudança de endereço:** ENCAMINHAR OUTRAS DEMANDAS
+• **Pagamento:** Próxima mensalidade (técnico avalia valor)
+
+**💰 Serviços Adicionais:**
+• **IP Fixo:** R$ 200,00 (ENCAMINHAR OUTRAS DEMANDAS para negociar)
+• **SetupBox DkirosTV:** ENCAMINHAR OUTRAS DEMANDAS
+
+**⚠️ Observações:**
+• Nunca informar sobre existência de 2 bases
+• Verificar carteira antes de enviar fatura
+• Sempre confirmar melhor período com cliente
+• Setor agendamento sempre entra em contato antes da visita
+
+---
+dkiros_atendimento::📞 *D-KIROS – Contatos:*
+
+**📞 Contatos Principais:**
+• **Telefone:** (47) 3308-2000
+• **WhatsApp:** (47) 3308-2000
+• **Site:** https://dkiros.com.br/
+
+**🌐 Central do Assinante:**
+• **Base 1:** https://ixc.d-kiros.com.br
+• **Base 2:** https://ixc.dkirosnet.com.br/central_assinante_web/faturas
+• **Login:** CPF/CNPJ
+• **Senha:** dkirosnet
+• **⚠️ IMPORTANTE:** Verificar base do cliente, nunca informar sobre 2 bases
+
+**⏰ Horários de Atendimento:**
+
+**🏢 DKIROS SUCESSO DO CLIENTE (Atendimento):**
+• **Segunda a Sexta:** 08h às 18h
+• **Sábado:** 08h às 12h
+
+**💼 DKIROS VENDAS (Contratar):**
+• **Segunda a Sexta:** 08h às 18h
+• **Sábado:** 08h às 12h
+
+**🔧 DKIROS CRT (Suporte do Provedor):**
+• **Segunda a Sexta:** 08h às 18h
+• **Sábado:** 08h às 12h
+
+**📍 Endereço Completo:**
+• **Matriz:** Gaspar - SC
+• **Bairro:** Gaspar Mirim
+• **Rua:** R. João Ferretti, 155 - Sala 01
+
+**🔧 Setores Disponíveis:**
+• **Comercial:** Vendas e contratações
+• **Financeiro:** Questões de pagamento
+• **Suporte:** N2 e N3 técnico
+• **Agendamento:** Visitas técnicas
+
+**📱 Aplicativos de Suporte:**
+• **DkirosTV:** Streaming de canais
+• **Clube DKiros:** Descontos e benefícios
+• **LIG Doctor:** Telemedicina
+• **Tua Operadora:** Chip celular
+
+**⚠️ Observações Importantes:**
+• UPSOFT operacional
+• Chat e ligações disponíveis
+• Transbordo ativo para +20min
+• Não transferir após 08h (troca de turno)
+• Sempre confirmar melhor período para visitas
+
+---
+dkiros_reset::🔄 *D-KIROS – Reset e Configurações:*
+
+**🔐 Política de Senhas:**
+• **Roteador:** NÃO informar senha ao cliente
+• **Reset:** Auxiliar apenas se roteador já resetado
+• **ONT desconfigurada:** Encaminhar direto para N3
+
+**🔧 Procedimentos de Reset:**
+• Verificar se equipamento já foi resetado
+• Orientar procedimentos básicos
+• Casos complexos: encaminhar N3
+
+**📶 Teste de Velocidade:**
+• **Site oficial:** http://dkiros.speedtestcustom.com/
+• Sempre usar site oficial da empresa
+
+**🌐 Configurações de Rede:**
+• **DNS:** Sempre automático (fornecido pelo ISP)
+• **DNS atual:** 170.245.99.22 e 170.245.99.23
+• **IPV6:** Suporte disponível
+• **Condomínios:** Autenticação PPPoE
+
+**📡 Configurações Wi-Fi Recomendadas:**
+• **2.4GHz:** Canais 1, 6 ou 11
+• **Largura de banda 2.4GHz:** Automático
+• **5GHz:** Canal e banda automáticos
+
+**🔒 Acesso Remoto:**
+• **Porta:** 8001
+• **IP autorizado:** 131.100.52.253
+
+**🛠️ Suporte a Equipamentos:**
+• **Repetidores:** Apenas Mesh do provedor
+• **IPTV pirata:** Sem suporte garantido (tentar ajudar)
+• **Câmeras:** Sem suporte técnico
+• **SetupBox:** Disponível para aluguel (DkirosTV)
+
+**💰 Custos de Serviço:**
+• **Configuração repetidor:** R$ 40,00
+• **Visita improdutiva:** R$ 40,00 + materiais
+• **Cabeamento:** R$ 8,00/metro + R$ 5,00 ponteira
+
+**⚠️ Observações Técnicas:**
+• Mikrotik usado apenas no rádio (não como roteador)
+• Unifi raramente gera atendimento (geralmente N2)
+• Sempre deixar DNS automático em todos equipamentos
+• Conectar IPTV sempre por cabo (pode derrubar Wi-Fi)
+
+**📋 Procedimentos Especiais:**
+• **Falta de interação:** Abrir N2 mesmo sem procedimentos
+• **Massiva:** Informar manutenção/falha regional
+• **Sem conexão:** N3 apenas em horário comercial
+• **Telefonia:** N2 ou OUTRAS DEMANDAS conforme caso
+
+
+
